@@ -7,8 +7,21 @@ amplifies the Amazon Associates US program (`northlanepick-20`).
 
 - **Astro 5** (static output)
 - Content: Markdown in `src/content/blog/`
-- Hosting: **Cloudflare Pages** (free) — auto-builds on git push
-- Domain: `northlanepick.com` (set in `astro.config.mjs`)
+- Hosting: **Cloudflare Pages** (free) — project `northlane-pick-blog`
+- Domain: `northlanepick.com` (set in `astro.config.mjs`) — **live** since 2026-07-01
+
+## Deploy (Windows · Direct Upload)
+
+After `npm run build`, package `dist/` with **forward slashes** (required):
+
+```powershell
+cd dist
+tar -a -c -f ..\northlane-pick-blog-deploy.zip *
+```
+
+Upload via Cloudflare Dashboard → Workers & Pages → northlane-pick-blog → Create deployment → Production.
+
+Do **not** use `Compress-Archive` — backslash paths break article routes.
 
 ## Local commands
 
