@@ -1,5 +1,7 @@
 # build output
 dist/
+# vercel
+.vercel/
 # generated types
 .astro/
 # dependencies
@@ -11,3 +13,5 @@ npm-debug.log*
 .env.production
 # macOS / editor
 .DS_Store
+
+.vercel
