@@ -1,0 +1,62 @@
+# North Lane Pick blog — backlog & publish tracking (cloud automation reads this)
+# Affiliate tag: northlanepick-20 (no trailing s)
+
+meta:
+  site: https://northlanepick.com
+  repo: shunsukeyoko005-bit/northlane-pick-blog
+  updated: 2026-07-01
+
+cadence:
+  "~2026-07-14": 2-3/day
+  "2026-07-15~07-31": 3-4/day
+  "2026-08~": 4-5/day
+  rule: One article per automation run. Never push 2+ articles in one run.
+  publish_slots_jst:
+    - "09:00"
+    - "15:00"
+    - "21:00"
+  launch_exception: "2026-07-01 had 6 articles manually. Staggered slots start 2026-07-02."
+
+verified_asins:
+  B002CML1XE: "La Roche-Posay Anthelios Ultra-Light Fluid SPF 60"
+  B08CFVM1TT: "Supergoop! Unseen Sunscreen SPF 40"
+  B0883DRT32: "Supergoop! Glow Stick SPF 50"
+  B00TTD9BRC: "CeraVe Foaming Facial Cleanser"
+  B01LXAZL30: "The Ordinary Niacinamide 10% + Zinc 1%"
+  B00TTD9CR8: "CeraVe Moisturizing Cream"
+
+published:
+  - n: 1
+    slug: skincare-routine-order
+    date: 2026-07-01
+  - n: 2
+    slug: best-fluid-sunscreens-2026
+    date: 2026-07-01
+  - n: 3
+    slug: how-often-reapply-sunscreen
+    date: 2026-07-01
+  - n: 4
+    slug: sunscreen-under-makeup
+    date: 2026-07-01
+  - n: 5
+    slug: morning-skincare-routine-beginners
+    date: 2026-07-01
+  - n: 6
+    slug: mineral-vs-chemical-sunscreen
+    date: 2026-07-01
+
+in_progress: []
+
+backlog:
+  - cluster: sunscreen-spf
+    ideas:
+      - "Best Sunscreens That Don't Leave a White Cast"
+      - "Body Sunscreen vs Face Sunscreen: Do You Need Both?"
+      - "Reef-Safe Sunscreen: What It Means & Top Picks"
+      - "SPF for Oily Skin: Mattifying Picks"
+  - cluster: skincare-routine
+    ideas:
+      - "Night Skincare Routine: The Simple PM Order"
+      - "How to Layer Niacinamide, Vitamin C, and SPF"
+      - "Skincare Routine for Sensitive Skin (Gentle Picks)"
+      - "Do You Really Need a Toner? (Honest Take)"
