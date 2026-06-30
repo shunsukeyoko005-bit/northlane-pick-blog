@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const posts = (await getCollection('blog')).sort((a, b) =>
+  (b.data.created ?? '').localeCompare(a.data.created ?? '')
+);
+---
+
+<Base title="North Lane Pick — Skincare & SPF Picks for US Shoppers">
+  <h1>Skincare &amp; SPF, made simple</h1>
+  <p class="lede">
+    Curated picks and easy guides for sunscreen and skincare routines. Save your
+    favorites and shop on Amazon.
+  </p>
+  <ul class="post-list">
+    {
+      posts.map((post) => (
+        <li>
+          <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+          <p>{post.data.description}</p>
+        </li>
+      ))
+    }
+  </ul>
+</Base>

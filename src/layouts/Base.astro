@@ -1,0 +1,49 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = 'Curated skincare and SPF picks and simple guides for US shoppers.',
+} = Astro.props;
+
+const year = new Date().getFullYear();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="brand">North Lane Pick</a>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/affiliate-disclosure">Disclosure</a>
+      </nav>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>As an Amazon Associate I earn from qualifying purchases.</p>
+      <p>
+        <a href="/about">About</a> ·
+        <a href="/privacy">Privacy Policy</a> ·
+        <a href="/affiliate-disclosure">Affiliate Disclosure</a>
+      </p>
+      <p>&copy; {year} North Lane Pick</p>
+    </footer>
+  </body>
+</html>
