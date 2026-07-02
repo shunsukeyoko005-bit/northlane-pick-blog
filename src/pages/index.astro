@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
 
 const posts = (await getCollection('blog')).sort((a, b) =>
   (b.data.created ?? '').localeCompare(a.data.created ?? '')
@@ -8,17 +9,27 @@ const posts = (await getCollection('blog')).sort((a, b) =>
 ---
 
 <Base title="North Lane Pick — Skincare & SPF Picks for US Shoppers">
-  <h1>Skincare &amp; SPF, made simple</h1>
-  <p class="lede">
-    Curated picks and easy guides for sunscreen and skincare routines. Save your
-    favorites and shop on Amazon.
-  </p>
-  <ul class="post-list">
+  <section class="page-hero">
+    <p class="section-label">Curated for US shoppers</p>
+    <h1>Skincare &amp; SPF, made simple</h1>
+    <p class="lede">
+      Practical guides and honest product picks for sunscreen and daily skincare.
+      Save what works — shop on Amazon when you are ready.
+    </p>
+  </section>
+
+  <p class="section-label">Latest guides</p>
+  <ul class="post-grid">
     {
       posts.map((post) => (
         <li>
-          <a href={`/blog/${post.id}/`}>{post.data.title}</a>
-          <p>{post.data.description}</p>
+          <PostCard
+            href={`/blog/${post.id}/`}
+            title={post.data.title}
+            description={post.data.description}
+            cluster={post.data.cluster}
+            created={post.data.created}
+          />
         </li>
       ))
     }

@@ -12,10 +12,41 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const clusterLabels: Record<string, string> = {
+  'sunscreen-spf': 'Sunscreen & SPF',
+  'skincare-routine': 'Skincare Routine',
+};
+
+const clusterLabel = post.data.cluster
+  ? (clusterLabels[post.data.cluster] ?? post.data.cluster)
+  : null;
+
+const formattedDate = post.data.created
+  ? new Date(`${post.data.created}T12:00:00`).toLocaleDateString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric',
+    })
+  : null;
 ---
 
-<Base title={post.data.title} description={post.data.description}>
-  <article>
+<Base title={post.data.title} description={post.data.description} narrow>
+  <header class="article-hero">
+    <div class="article-hero__meta">
+      {clusterLabel && <span class="cluster-pill">{clusterLabel}</span>}
+      {
+        formattedDate && (
+          <time class="post-card__date" datetime={post.data.created}>
+            {formattedDate}
+          </time>
+        )
+      }
+    </div>
+    <h1>{post.data.title}</h1>
+    <p class="lede">{post.data.description}</p>
+  </header>
+  <article class="article-body">
     <Content />
   </article>
 </Base>

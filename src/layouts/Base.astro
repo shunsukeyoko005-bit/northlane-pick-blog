@@ -4,11 +4,13 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  narrow?: boolean;
 }
 
 const {
   title,
   description = 'Curated skincare and SPF picks and simple guides for US shoppers.',
+  narrow = false,
 } = Astro.props;
 
 const year = new Date().getFullYear();
@@ -23,17 +25,25 @@ const year = new Date().getFullYear();
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <header class="site-header">
-      <a href="/" class="brand">North Lane Pick</a>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/affiliate-disclosure">Disclosure</a>
-      </nav>
+      <div class="site-header__inner">
+        <a href="/" class="brand">North Lane Pick</a>
+        <nav>
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/affiliate-disclosure">Disclosure</a>
+        </nav>
+      </div>
     </header>
-    <main class="container">
+    <main class:list={['container', narrow && 'container--narrow']}>
       <slot />
     </main>
     <footer class="site-footer">

@@ -1,0 +1,36 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  cluster?: string;
+  created?: string;
+}
+
+const { href, title, description, cluster, created } = Astro.props;
+
+const clusterLabels: Record<string, string> = {
+  'sunscreen-spf': 'Sunscreen & SPF',
+  'skincare-routine': 'Skincare Routine',
+};
+
+const clusterLabel = cluster ? (clusterLabels[cluster] ?? cluster) : 'Guide';
+
+const formattedDate = created
+  ? new Date(`${created}T12:00:00`).toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    })
+  : null;
+---
+
+<a class="post-card" href={href}>
+  <div class="post-card__top">
+    <span class="cluster-pill">{clusterLabel}</span>
+    {formattedDate && <time class="post-card__date" datetime={created}>{formattedDate}</time>}
+  </div>
+  <h2 class="post-card__title">{title}</h2>
+  <p class="post-card__excerpt">{description}</p>
+  <span class="post-card__cta">Read guide →</span>
+</a>
