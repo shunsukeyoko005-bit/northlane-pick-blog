@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-01
+  updated: 2026-07-02
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -44,13 +44,15 @@ published:
   - n: 6
     slug: mineral-vs-chemical-sunscreen
     date: 2026-07-01
+  - n: 7
+    slug: best-sunscreens-no-white-cast
+    date: 2026-07-02
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
     ideas:
-      - "Best Sunscreens That Don't Leave a White Cast"
       - "Body Sunscreen vs Face Sunscreen: Do You Need Both?"
       - "Reef-Safe Sunscreen: What It Means & Top Picks"
       - "SPF for Oily Skin: Mattifying Picks"
