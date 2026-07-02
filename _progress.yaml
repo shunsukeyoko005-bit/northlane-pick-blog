@@ -47,13 +47,15 @@ published:
   - n: 7
     slug: best-sunscreens-no-white-cast
     date: 2026-07-02
+  - n: 8
+    slug: body-sunscreen-vs-face-sunscreen
+    date: 2026-07-02
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
     ideas:
-      - "Body Sunscreen vs Face Sunscreen: Do You Need Both?"
       - "Reef-Safe Sunscreen: What It Means & Top Picks"
       - "SPF for Oily Skin: Mattifying Picks"
   - cluster: skincare-routine
