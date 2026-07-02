@@ -29,9 +29,10 @@ Editorial Grid / Magazine — card index with covers, readable article column, s
 - **OG tags:** `og:image` from cover on article pages
 - **Amazon CTAs:** pill-style buttons on `/dp/` and search links in article body
 
-## Phase 3 (later)
-- Pinterest / photo covers per article (`cover_image` override in frontmatter)
-- Product cards with official Amazon product images (Associates-compliant URLs)
+## Phase 3（進行中 · オーナー指示 2026-07-02）
+
+- **毎記事カバー画像必須** — SVG 自動生成をデフォルト · Pinterest 実写真があれば上書き
+- 手順: `site/IMAGES.md` · Automation プロンプトに `npm run covers` 明記済み
 
 ## Anti-patterns
 - No emoji icons · no layout-shift hover · muted text min `#475569`
