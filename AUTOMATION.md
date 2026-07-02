@@ -45,7 +45,8 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 1. Read `_progress.yaml` and apply slot decision.
 2. Pick **one** title from `backlog` (prefer `sunscreen-spf` until balanced).
 3. Write `src/content/blog/<slug>.md` matching existing article frontmatter style.
-4. Content rules:
+4. Run `node scripts/generate-covers.mjs` (creates `public/images/covers/<slug>.svg`).
+5. Content rules:
    - `affiliate_tag: northlanepick-20` (never `northlanepicks-20`)
    - Links: `https://www.amazon.com/dp/{ASIN}?tag=northlanepick-20`
    - No fabricated ASINs — use `verified_asins` or Amazon search links
@@ -54,7 +55,7 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 5. `npm run build` — must pass.
 6. Grep built output for `northlanepick-20`; confirm no `northlanepicks-20`.
 7. Update `_progress.yaml` `published` list (same commit).
-8. `git add` new article + `_progress.yaml` only.
+8. `git add` new article + cover SVG + `_progress.yaml`.
 9. `git commit -m "Add article: <slug>"`
 10. `git push origin main`
 11. Report: `PUBLISHED: <slug> · today_count after push · slot name`

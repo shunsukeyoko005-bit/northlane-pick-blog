@@ -5,13 +5,17 @@ interface Props {
   title: string;
   description?: string;
   narrow?: boolean;
+  ogImage?: string;
 }
 
 const {
   title,
   description = 'Curated skincare and SPF picks and simple guides for US shoppers.',
   narrow = false,
+  ogImage,
 } = Astro.props;
+
+const ogImageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
 
 const year = new Date().getFullYear();
 ---
@@ -25,6 +29,9 @@ const year = new Date().getFullYear();
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    {ogImageUrl && <meta name="twitter:card" content="summary_large_image" />}
+    {ogImageUrl && <meta name="twitter:image" content={ogImageUrl} />}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

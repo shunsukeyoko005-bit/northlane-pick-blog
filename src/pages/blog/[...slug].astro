@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import { coverForSlug } from '../../lib/covers';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -29,22 +30,34 @@ const formattedDate = post.data.created
       year: 'numeric',
     })
   : null;
+
+const coverImage = coverForSlug(post.id, post.data.cover_image);
 ---
 
-<Base title={post.data.title} description={post.data.description} narrow>
+<Base
+  title={post.data.title}
+  description={post.data.description}
+  ogImage={coverImage}
+  narrow
+>
   <header class="article-hero">
-    <div class="article-hero__meta">
-      {clusterLabel && <span class="cluster-pill">{clusterLabel}</span>}
-      {
-        formattedDate && (
-          <time class="post-card__date" datetime={post.data.created}>
-            {formattedDate}
-          </time>
-        )
-      }
+    <div class="article-hero__cover">
+      <img src={coverImage} alt="" width="1200" height="630" decoding="async" />
     </div>
-    <h1>{post.data.title}</h1>
-    <p class="lede">{post.data.description}</p>
+    <div class="article-hero__content">
+      <div class="article-hero__meta">
+        {clusterLabel && <span class="cluster-pill">{clusterLabel}</span>}
+        {
+          formattedDate && (
+            <time class="post-card__date" datetime={post.data.created}>
+              {formattedDate}
+            </time>
+          )
+        }
+      </div>
+      <h1>{post.data.title}</h1>
+      <p class="lede">{post.data.description}</p>
+    </div>
   </header>
   <article class="article-body">
     <Content />

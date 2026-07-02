@@ -11,6 +11,7 @@ const blog = defineCollection({
     created: z.string().optional(),
     affiliate_tag: z.string().optional(),
     slug: z.string().optional(),
+    cover_image: z.string().optional(),
   }),
 });
 

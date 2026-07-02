@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="spf-for-oily-skin-mattifying-picks cover">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6efe7"/>
+      <stop offset="55%" stop-color="#e8cfc0"/>
+      <stop offset="100%" stop-color="#c98b7e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="150" cy="520" r="180" fill="#c98b7e" opacity="0.12"/>
+  <circle cx="1050" cy="120" r="140" fill="#a66b5f" opacity="0.1"/>
+  <ellipse cx="600" cy="210" rx="95" ry="55" fill="#a66b5f" opacity="0.35"/><path d="M505 210 Q600 150 695 210" stroke="#a66b5f" stroke-width="8" fill="none" opacity="0.5"/>
+  <text x="72" y="520" font-family="Georgia, serif" font-size="28" fill="#a66b5f" opacity="0.7">North Lane Pick</text>
+</svg>

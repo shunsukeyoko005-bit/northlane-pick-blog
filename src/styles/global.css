@@ -174,12 +174,32 @@ a:hover {
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 1.35rem 1.35rem 1.15rem;
+  padding: 0;
+  overflow: hidden;
   text-decoration: none;
   color: inherit;
   box-shadow: var(--shadow-sm);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
   cursor: pointer;
+}
+
+.post-card__media {
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+}
+
+.post-card__media img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1200 / 630;
+  object-fit: cover;
+}
+
+.post-card__body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1.25rem 1.25rem 1.1rem;
 }
 
 .post-card:hover {
@@ -245,9 +265,24 @@ a:hover {
 
 .article-hero {
   margin: 0 -1.25rem 2rem;
-  padding: 2rem 1.25rem 1.75rem;
   background: linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%);
   border-bottom: 1px solid var(--line);
+  overflow: hidden;
+}
+
+.article-hero__cover {
+  background: var(--surface);
+}
+
+.article-hero__cover img {
+  display: block;
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.article-hero__content {
+  padding: 1.5rem 1.25rem 1.75rem;
 }
 
 .article-hero__meta {
@@ -347,6 +382,37 @@ blockquote {
   margin: 1.25rem 0;
   padding: 0.25rem 1rem;
   color: var(--muted);
+}
+
+/* Amazon affiliate CTAs in article body */
+.article-body a[href*="amazon.com/dp/"],
+.article-body a[href*="amazon.com/s?"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.25rem 0 0.85rem;
+  padding: 0.55rem 0.95rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--accent-dark);
+  font-weight: 600;
+  font-size: 0.88rem;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.article-body a[href*="amazon.com/dp/"]:hover,
+.article-body a[href*="amazon.com/s?"]:hover {
+  background: var(--surface);
+  border-color: #d9c8bc;
+  color: var(--accent);
+}
+
+.article-body a[href*="amazon.com/dp/"]::after,
+.article-body a[href*="amazon.com/s?"]::after {
+  content: "→";
+  font-weight: 700;
 }
 
 /* —— Static pages —— */
