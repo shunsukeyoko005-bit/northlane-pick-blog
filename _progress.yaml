@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-02
+  updated: 2026-07-03
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -53,13 +53,13 @@ published:
   - n: 9
     slug: spf-for-oily-skin-mattifying-picks
     date: 2026-07-02
+  - n: 10
+    slug: reef-safe-sunscreen-what-it-means-top-picks
+    date: 2026-07-03
 
 in_progress: []
 
 backlog:
-  - cluster: sunscreen-spf
-    ideas:
-      - "Reef-Safe Sunscreen: What It Means & Top Picks"
   - cluster: skincare-routine
     ideas:
       - "Night Skincare Routine: The Simple PM Order"
