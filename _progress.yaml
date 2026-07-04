@@ -71,4 +71,14 @@ published:
 
 in_progress: []
 
-backlog: []
+backlog:
+  - cluster: sunscreen-spf
+    ideas:
+      - "Vitamin C Serum and SPF: How to Use Both in Your Morning Routine"
+      - "Sunscreen Expiration: When to Replace Your SPF Bottle"
+      - "Best Sunscreens for Combination Skin (Not Too Greasy, Not Too Dry)"
+      - "SPF Before Outdoor Workouts: What Holds Up to Sweat"
+  - cluster: skincare-routine
+    ideas:
+      - "Double Cleansing Explained: When One Cleanse Is Not Enough"
+      - "How to Fix a Damaged Skin Barrier (Gentle Recovery Plan)"
