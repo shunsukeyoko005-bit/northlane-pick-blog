@@ -6,6 +6,7 @@ cluster: "sunscreen-spf"
 status: "published"
 created: "2026-07-03"
 affiliate_tag: "northlanepick-20"
+cover_image: "/images/covers/reef-safe-sunscreen-what-it-means-top-picks.jpg"
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*

@@ -6,6 +6,7 @@ cluster: "sunscreen-spf"
 status: "published"
 created: "2026-07-02"
 affiliate_tag: "northlanepick-20"
+cover_image: "/images/covers/best-sunscreens-no-white-cast.jpg"
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*

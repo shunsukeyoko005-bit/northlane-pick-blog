@@ -6,6 +6,7 @@ cluster: "sunscreen-spf"
 status: "sample-draft"
 created: "2026-06-30"
 affiliate_tag: "northlanepick-20"
+cover_image: "/images/covers/best-fluid-sunscreens-2026.jpg"
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
