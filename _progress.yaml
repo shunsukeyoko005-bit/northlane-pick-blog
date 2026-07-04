@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-03
+  updated: 2026-07-04
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -62,11 +62,13 @@ published:
   - n: 12
     slug: how-to-layer-niacinamide-vitamin-c-and-spf
     date: 2026-07-03
+  - n: 13
+    slug: skincare-routine-sensitive-skin-gentle-picks
+    date: 2026-07-04
 
 in_progress: []
 
 backlog:
   - cluster: skincare-routine
     ideas:
-      - "Skincare Routine for Sensitive Skin (Gentle Picks)"
       - "Do You Really Need a Toner? (Honest Take)"
