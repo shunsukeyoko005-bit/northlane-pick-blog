@@ -6,6 +6,7 @@ cluster: "skincare-routine"
 status: "published"
 created: "2026-07-04"
 affiliate_tag: "northlanepick-20"
+cover_image: "/images/covers/do-you-really-need-a-toner-honest-take.jpg"
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
