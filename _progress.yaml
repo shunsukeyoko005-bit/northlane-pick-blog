@@ -65,10 +65,10 @@ published:
   - n: 13
     slug: skincare-routine-sensitive-skin-gentle-picks
     date: 2026-07-04
+  - n: 14
+    slug: do-you-really-need-a-toner-honest-take
+    date: 2026-07-04
 
 in_progress: []
 
-backlog:
-  - cluster: skincare-routine
-    ideas:
-      - "Do You Really Need a Toner? (Honest Take)"
+backlog: []
