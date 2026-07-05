@@ -36,9 +36,10 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 
 ## Publish steps (only if slot says RUN)
 
-1. Read `_progress.yaml`, `AUTOMATION.md`, and `IMAGES.md`. Apply slot decision.
+1. Read `_progress.yaml`, `AUTOMATION.md`, `IMAGES.md`, and **`COPY-INTRO-DIAGNOSIS.md`**. Apply slot decision.
 2. Pick **one** title from `backlog` (prefer `sunscreen-spf` until balanced).
 3. Write `src/content/blog/<slug>.md` matching existing article frontmatter style.
+   - **Intro (required):** Diagnosis-style opening per `COPY-INTRO-DIAGNOSIS.md` — trap → cost of unchanged → bridge (3–5 short paragraphs under H1, **no affiliate links in intro**).
 4. **Images (required):** Run `npm run covers` → creates `public/images/covers/<slug>.svg`.
    - **Auto SVG alone looks empty on site** — set `cover_image: "/images/covers/<slug>.jpg"` with a real photo cover (GenerateImage or matching Pinterest pin). See `IMAGES.md`.
    - If a matching Pinterest photo exists, use `public/images/covers/<slug>.jpg` and set `cover_image` in frontmatter instead (see `IMAGES.md`).
@@ -55,7 +56,7 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 9. `git add` new article + cover image + `_progress.yaml`.
 10. `git commit -m "Add article: <slug>"`
 11. `git push origin main`
-12. Report: `PUBLISHED: <slug> · today's count · slot name · cover: <filename>`
+12. Report: `PUBLISHED: <slug> · today's count · slot name · cover: <filename> · intro: diagnosis`
 
 ### Forbidden
 
