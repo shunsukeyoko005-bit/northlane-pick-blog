@@ -77,14 +77,15 @@ published:
   - n: 17
     slug: spf-before-outdoor-workouts
     date: 2026-07-05
+  - n: 18
+    slug: best-sunscreens-for-combination-skin
+    date: 2026-07-05
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
-    ideas:
-      - "Best Sunscreens for Combination Skin (Not Too Greasy, Not Too Dry)"
-      - "SPF Before Outdoor Workouts: What Holds Up to Sweat"
+    ideas: []
   - cluster: skincare-routine
     ideas:
       - "Double Cleansing Explained: When One Cleanse Is Not Enough"
