@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-05
+  updated: 2026-07-06
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -80,6 +80,9 @@ published:
   - n: 18
     slug: best-sunscreens-for-combination-skin
     date: 2026-07-05
+  - n: 19
+    slug: double-cleansing-explained-when-one-cleanse-is-not-enough
+    date: 2026-07-06
 
 in_progress: []
 
@@ -88,5 +91,4 @@ backlog:
     ideas: []
   - cluster: skincare-routine
     ideas:
-      - "Double Cleansing Explained: When One Cleanse Is Not Enough"
       - "How to Fix a Damaged Skin Barrier (Gentle Recovery Plan)"
