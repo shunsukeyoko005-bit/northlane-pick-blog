@@ -80,13 +80,15 @@ published:
   - n: 18
     slug: best-sunscreens-for-combination-skin
     date: 2026-07-05
+  - n: 19
+    slug: tinted-sunscreen-everyday-when-it-helps
+    date: 2026-07-06
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
     ideas:
-      - "Tinted Sunscreen for Everyday: When It Helps and When It Does Not"
       - "Sunscreen for Dark Skin Tones: No White Cast Picks"
       - "SPF Lip Balm vs Face Sunscreen: Do You Need Both?"
       - "Sunscreen Sticks for Travel: TSA-Friendly Reapplication"
