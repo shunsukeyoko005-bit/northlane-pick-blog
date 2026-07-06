@@ -8,6 +8,8 @@ Publish **exactly one** article per run. If this slot should not publish today, 
 
 **Do NOT open a pull request. Push directly to main.**
 
+**A run is FAILED if you stop before `git push origin main` succeeds** (unless slot says SKIP).
+
 ---
 
 ## Slot decision (run this FIRST)
@@ -34,35 +36,53 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 
 ---
 
+## Topic pick (when slot says RUN)
+
+1. Read `_progress.yaml` → `backlog`.
+2. Prefer `sunscreen-spf`, then `skincare-routine`.
+3. **If the preferred cluster has `ideas: []`, pick from any other cluster that has ideas.** Never abort because one cluster is empty.
+4. If **all** clusters are empty, invent one title matching the cluster theme (beauty/skincare US English) and continue — do not SKIP for empty backlog.
+
+---
+
 ## Publish steps (only if slot says RUN)
 
 1. Read `_progress.yaml`, `AUTOMATION.md`, `IMAGES.md`, and **`COPY-INTRO-DIAGNOSIS.md`**. Apply slot decision.
-2. Pick **one** title from `backlog` (prefer `sunscreen-spf` until balanced).
+2. Pick **one** title (see Topic pick above). Slug = kebab-case from title.
 3. Write `src/content/blog/<slug>.md` matching existing article frontmatter style.
    - **Intro (required):** Diagnosis-style opening per `COPY-INTRO-DIAGNOSIS.md` — trap → cost of unchanged → bridge (3–5 short paragraphs under H1, **no affiliate links in intro**).
-4. **Images (required):** Run `npm run covers` → creates `public/images/covers/<slug>.svg`.
-   - **Auto SVG alone looks empty on site** — set `cover_image: "/images/covers/<slug>.jpg"` with a real photo cover (GenerateImage or matching Pinterest pin). See `IMAGES.md`.
-   - If a matching Pinterest photo exists, use `public/images/covers/<slug>.jpg` and set `cover_image` in frontmatter instead (see `IMAGES.md`).
-   - **Never push without a cover file.**
+4. **Cover image (required — see `IMAGES.md`):**
+   - Create a **real photo** `public/images/covers/<slug>.jpg` (1200×630, beauty/skincare, no text overlay).
+   - Add to frontmatter: `cover_image: "/images/covers/<slug>.jpg"`
+   - Run `npm run covers` for SVG fallback (optional).
+   - **SVG-only covers are rejected** by `npm run verify-publish`.
 5. Content rules:
    - `affiliate_tag: northlanepick-20` (never `northlanepicks-20`)
    - Links: `https://www.amazon.com/dp/{ASIN}?tag=northlanepick-20`
    - No fabricated ASINs — use `verified_asins` or Amazon search links
    - US English · beauty/skincare only · affiliate disclosure top and bottom
    - No prices in body — "Check current price on Amazon"
-6. `npm run build` — must pass.
+6. `npm install` (if needed) → `npm run build` — must pass.
 7. Grep built output for `northlanepick-20`; confirm no `northlanepicks-20`.
-8. Update `_progress.yaml` `published` list (same commit).
-9. `git add` new article + cover image + `_progress.yaml`.
-10. `git commit -m "Add article: <slug>"`
-11. `git push origin main`
-12. Report: `PUBLISHED: <slug> · today's count · slot name · cover: <filename> · intro: diagnosis`
+8. Update `_progress.yaml` `published` list (same commit). Remove used title from `backlog` if listed.
+9. **`npm run verify-publish -- <slug>`** — must print `OK`. Fix any FAIL before commit.
+10. **Push gate (mandatory):**
+    ```bash
+    git add src/content/blog/<slug>.md public/images/covers/<slug>.jpg _progress.yaml
+    git commit -m "Add article: <slug>"
+    git push origin main
+    ```
+    - If push fails, fix the error and **retry push once**.
+    - Do not end the run until push succeeds or you report `FAILED: <reason>`.
+11. Report: `PUBLISHED: <slug> · today's count · slot · cover: <slug>.jpg · intro: diagnosis · pushed: yes`
 
 ### Forbidden
 
 - 2+ articles or 2+ pushes in one run
-- **Publishing without a cover image** (`public/images/covers/<slug>.*`)
+- **Publishing without `cover_image` + `.jpg` / `.webp` file**
+- Stopping after commit without push
 - Opening a pull request (push to `main` directly)
 - Publishing outside the slot rules
+- SKIP because a single backlog cluster is empty
 - Thin / duplicate cluster spam
 - Mixing other brands (PawThrive, cleanpup, FBA, Get Arigato)

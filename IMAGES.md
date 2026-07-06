@@ -2,35 +2,46 @@
 
 > **Owner rule (2026-07-02):** Every article must ship with a cover image. No image-less publishes.
 
-## Default (Automation · every run)
+## Required (Automation · every RUN)
 
-After writing `src/content/blog/<slug>.md`:
+Every new article **must** have:
+
+1. **Photo file:** `public/images/covers/<slug>.jpg` (or `.webp`) — **1200×630**, beauty/skincare topic, clean editorial style, **no text on image**.
+2. **Frontmatter:** `cover_image: "/images/covers/<slug>.jpg"` on the same line as other frontmatter fields (see existing articles).
+3. **Verification:** `npm run verify-publish -- <slug>` must exit 0 before `git commit`.
+
+### How to create the JPG (cloud agent)
+
+Pick **one** method:
+
+| Method | Steps |
+|--------|--------|
+| **A. Image generation** | Generate a 1200×630 skincare/beauty photo matching the article topic. Save as `public/images/covers/<slug>.jpg`. |
+| **B. Repo reference** | Copy an existing `.jpg` from `public/images/covers/` as style reference; create a new unique image for the topic. |
+| **C. SVG is not enough** | `npm run covers` creates `.svg` only — **never push with SVG as the only cover**. |
+
+After JPG exists:
 
 ```bash
-npm run covers
+npm run covers          # optional SVG fallback
+npm run verify-publish -- <slug>
 ```
 
-- Output: `public/images/covers/<slug>.svg`
-- Site auto-uses `/images/covers/<slug>.svg` when `cover_image` is omitted
-- **Commit the SVG** with the article in the same push
+## What the site uses
 
-## Upgrade path — real photos (Phase 3)
-
-When a matching Pinterest pin exists for the topic:
-
-1. Copy image to `public/images/covers/<slug>.jpg` (or `.webp`)
-2. Set frontmatter: `cover_image: "/images/covers/<slug>.jpg"`
-3. Commit image + article together
-
-Pinterest assets live under `dropship-ai/content/pinterest/` (秘書がトピック一致を探して流用).
+- Article hero + card + OG/Twitter: `cover_image` frontmatter → `public/images/covers/<slug>.jpg`
+- If `cover_image` is missing, site falls back to `.svg` (looks empty — **do not rely on this**)
 
 ## Verification before push
 
-- [ ] `public/images/covers/<slug>.svg` or custom `cover_image` exists
+- [ ] `cover_image` in frontmatter points to `.jpg` or `.webp`
+- [ ] File exists under `public/images/covers/`
+- [ ] `npm run verify-publish -- <slug>` passes
 - [ ] `npm run build` passes
-- [ ] Card + article hero show the image locally (`npm run preview`)
+- [ ] `git push origin main` succeeds
 
 ## Forbidden
 
-- Publishing an article without any cover asset in `public/images/covers/`
+- Publishing without `cover_image` + photo file
+- SVG-only covers (verify-publish will FAIL)
 - Hotlinking external images (use repo-hosted files only)
