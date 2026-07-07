@@ -86,13 +86,15 @@ published:
   - n: 20
     slug: sunscreen-for-dark-skin-tones-no-white-cast-picks
     date: 2026-07-07
+  - n: 21
+    slug: spf-lip-balm-vs-face-sunscreen-do-you-need-both
+    date: 2026-07-07
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
     ideas:
-      - "SPF Lip Balm vs Face Sunscreen: Do You Need Both?"
       - "Sunscreen Sticks for Travel: TSA-Friendly Reapplication"
       - "Baby-Safe Sunscreen: What Parents Should Look For"
   - cluster: skincare-routine
