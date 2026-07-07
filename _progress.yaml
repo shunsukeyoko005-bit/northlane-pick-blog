@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-06
+  updated: 2026-07-07
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -83,13 +83,15 @@ published:
   - n: 19
     slug: tinted-sunscreen-everyday-when-it-helps
     date: 2026-07-06
+  - n: 20
+    slug: sunscreen-for-dark-skin-tones-no-white-cast-picks
+    date: 2026-07-07
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
     ideas:
-      - "Sunscreen for Dark Skin Tones: No White Cast Picks"
       - "SPF Lip Balm vs Face Sunscreen: Do You Need Both?"
       - "Sunscreen Sticks for Travel: TSA-Friendly Reapplication"
       - "Baby-Safe Sunscreen: What Parents Should Look For"
