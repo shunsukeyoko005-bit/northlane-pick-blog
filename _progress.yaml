@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-07
+  updated: 2026-07-08
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -92,13 +92,15 @@ published:
   - n: 22
     slug: sunscreen-sticks-for-travel-tsa-friendly-reapplication
     date: 2026-07-07
+  - n: 23
+    slug: baby-safe-sunscreen-what-parents-should-look-for
+    date: 2026-07-08
 
 in_progress: []
 
 backlog:
   - cluster: sunscreen-spf
-    ideas:
-      - "Baby-Safe Sunscreen: What Parents Should Look For"
+    ideas: []
   - cluster: skincare-routine
     ideas:
       - "Double Cleansing Explained: When One Cleanse Is Not Enough"
