@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-08
+  updated: 2026-07-09
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -101,6 +101,9 @@ published:
   - n: 25
     slug: how-to-fix-a-damaged-skin-barrier-gentle-recovery-plan
     date: 2026-07-08
+  - n: 26
+    slug: ceramide-moisturizers-who-they-help-and-how-to-use-them
+    date: 2026-07-09
 
 in_progress: []
 
@@ -108,5 +111,4 @@ backlog:
   - cluster: sunscreen-spf
     ideas: []
   - cluster: skincare-routine
-    ideas:
-      - "Ceramide Moisturizers: Who They Help and How to Use Them"
+    ideas: []
