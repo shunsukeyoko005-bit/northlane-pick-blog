@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-09
+  updated: 2026-07-10
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -110,6 +110,9 @@ published:
   - n: 28
     slug: sunscreen-for-hands-and-neck-the-spots-people-forget
     date: 2026-07-09
+  - n: 29
+    slug: two-minute-morning-skincare-routine-what-actually-matters
+    date: 2026-07-10
 
 in_progress: []
 
