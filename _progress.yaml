@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-10
+  updated: 2026-07-12
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -119,6 +119,9 @@ published:
   - n: 31
     slug: simple-skincare-routine-for-sensitive-mornings
     date: 2026-07-10
+  - n: 32
+    slug: sunscreen-on-cloudy-days-what-still-reaches-your-skin
+    date: 2026-07-12
 
 in_progress: []
 
