@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-13
+  updated: 2026-07-14
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -139,6 +139,9 @@ published:
     date: 2026-07-13
   - n: 38
     slug: sunscreen-for-daily-walks-spf-for-errands-dogs-and-lunch-breaks
+    date: 2026-07-14
+  - n: 39
+    slug: post-shower-skincare-routine-what-to-apply-while-skin-is-still-damp
     date: 2026-07-14
 
 in_progress: []
