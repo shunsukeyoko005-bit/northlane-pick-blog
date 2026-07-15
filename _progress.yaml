@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-14
+  updated: 2026-07-15
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -146,6 +146,9 @@ published:
   - n: 40
     slug: sunscreen-for-outdoor-concerts-spf-for-standing-sweating-and-reapplying
     date: 2026-07-14
+  - n: 41
+    slug: sunscreen-for-theme-parks-spf-for-lines-rides-and-long-walking-days
+    date: 2026-07-15
 
 in_progress: []
 
