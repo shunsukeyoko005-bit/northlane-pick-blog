@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-15
+  updated: 2026-07-16
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -155,6 +155,9 @@ published:
   - n: 43
     slug: sunscreen-for-farmers-markets-spf-for-stalls-tote-bags-and-sidewalks
     date: 2026-07-15
+  - n: 44
+    slug: post-commute-skincare-routine-what-to-cleanse-and-what-to-keep
+    date: 2026-07-16
 
 in_progress: []
 
