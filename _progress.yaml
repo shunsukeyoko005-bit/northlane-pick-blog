@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-16
+  updated: 2026-07-17
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -164,6 +164,9 @@ published:
   - n: 46
     slug: sunscreen-for-baseball-games-spf-for-bleachers-hats-and-extra-innings
     date: 2026-07-16
+  - n: 47
+    slug: sunscreen-for-outdoor-yoga-spf-for-mats-sweat-and-shade
+    date: 2026-07-17
 
 in_progress: []
 
