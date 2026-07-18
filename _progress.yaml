@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-17
+  updated: 2026-07-18
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -173,6 +173,9 @@ published:
   - n: 49
     slug: skincare-routine-after-a-sweaty-summer-day-cleanse-soothe-and-reset
     date: 2026-07-17
+  - n: 50
+    slug: sunscreen-for-patio-dinners-spf-for-golden-hour-sleeves-and-reapplication
+    date: 2026-07-18
 
 in_progress: []
 
