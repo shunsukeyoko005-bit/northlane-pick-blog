@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://northlanepick.com/sitemap-index.xml
