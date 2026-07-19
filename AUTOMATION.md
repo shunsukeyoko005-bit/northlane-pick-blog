@@ -38,10 +38,14 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 
 ## Topic pick (when slot says RUN)
 
-1. Read `_progress.yaml` → `backlog`.
-2. Prefer `sunscreen-spf`, then `skincare-routine`.
+> **SEO direction is secretary-controlled (2026-07-19).** See `../research/2026-07-19-seo-topic-strategy.md` for the full rationale. Do not deviate from it without a new dated research note.
+
+1. Read `_progress.yaml` → `backlog`. Each cluster's `ideas` list is curated by the secretary — use titles from it as-is (do not rewrite the angle).
+2. **Balance the two clusters** — check the count of `published` entries per cluster (by slug pattern: `sunscreen-*`/`spf-*`/`*-sunscreen-*` = sunscreen-spf; everything else = skincare-routine). Pick from whichever cluster is currently smaller. If counts are equal, prefer `sunscreen-spf`.
 3. **If the preferred cluster has `ideas: []`, pick from any other cluster that has ideas.** Never abort because one cluster is empty.
-4. If **all** clusters are empty, invent one title matching the cluster theme (beauty/skincare US English) and continue — do not SKIP for empty backlog.
+4. **Do not invent new "scene" SPF titles** (e.g. "Sunscreen for [activity/event]") — that pattern is saturated (23+ published). If you must invent a title because all clusters are empty, invent a **skin-concern, life-stage, ingredient, or "Best X" comparison** title instead (matches the patterns already in the backlog), US English, beauty/skincare only.
+5. Before finalizing a title, **check it against every slug in `published`** — skip if the topic is a near-duplicate (same scene/concern already covered) and pick the next backlog idea instead.
+6. If all clusters are empty, invent one title following rule 4 and continue — do not SKIP for empty backlog.
 
 ---
 
@@ -85,4 +89,5 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 - Publishing outside the slot rules
 - SKIP because a single backlog cluster is empty
 - Thin / duplicate cluster spam
+- **New "scene" SPF titles** (activity/event-based) — cluster is saturated; see Topic pick rule 4
 - Mixing other brands (PawThrive, cleanpup, FBA, Get Arigato)

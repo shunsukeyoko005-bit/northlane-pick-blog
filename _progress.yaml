@@ -194,8 +194,32 @@ published:
 
 in_progress: []
 
+# SEO方向性は秘書が管理（2026-07-19確定）: research/2026-07-19-seo-topic-strategy.md
+# シーン型SPF（theme park/baseball/pickleball等）は23本で飽和のため一時停止。
+# 優先: Best X比較（肌タイプ・悩み別）と Routine の年代別・悩み別で SPF:Routine の偏りを解消。
+# 新規タイトルはpublishedのslugと必ず突合してから使うこと（重複防止）。
 backlog:
   - cluster: sunscreen-spf
-    ideas: []
+    priority: "best-x comparisons + skin-concern guides (not new scenes) — see research/2026-07-19-seo-topic-strategy.md"
+    ideas:
+      - "Best Sunscreen for Acne-Prone Skin (Won't Clog Pores)"
+      - "Best Mineral Sunscreen for Sensitive Skin (2026 Picks)"
+      - "Best Sunscreen for Rosacea (Calming, Fragrance-Free Picks)"
+      - "Best Face Sunscreen for Men (No Shine, No Scent)"
+      - "Best SPF Moisturizer 2-in-1 (Skip a Step, Still Protected)"
+      - "Best Sunscreen for Mature Skin (SPF That Doesn't Sit in Fine Lines)"
+      - "Best Water-Resistant Sunscreen for Swimming and Sweat"
+      - "Does Your Foundation SPF Count? (The Honest Answer)"
+      - "How Much Sunscreen Should You Actually Apply? (The Two-Finger Rule)"
+      - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
   - cluster: skincare-routine
-    ideas: []
+    priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
+    ideas:
+      - "Skincare Routine for Acne-Prone Skin: What to Use and What to Skip"
+      - "Skincare Routine in Your 20s vs 30s: What Actually Changes"
+      - "Skincare Routine for Mature Skin: A Simple Anti-Aging Order"
+      - "Men's Skincare Routine: The 3 Steps That Matter"
+      - "What Is Skin Cycling? A Simple Beginner Schedule"
+      - "Chemical vs Physical Exfoliation: Which One Fits Your Skin"
+      - "Best Retinol Serum for Beginners (Start Without the Purge)"
+      - "Best Hyaluronic Acid Serum for Dry Skin"
