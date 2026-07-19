@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-18
+  updated: 2026-07-19
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -182,6 +182,9 @@ published:
   - n: 52
     slug: sunscreen-for-camping-weekends-spf-for-tents-trails-and-reapplication
     date: 2026-07-18
+  - n: 53
+    slug: sunscreen-for-summer-weddings-spf-for-outdoor-ceremonies-photos-and-reapplication
+    date: 2026-07-19
 
 in_progress: []
 
