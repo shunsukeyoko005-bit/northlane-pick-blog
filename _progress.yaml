@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-19
+  updated: 2026-07-20
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -194,6 +194,9 @@ published:
   - n: 56
     slug: skincare-routine-for-acne-prone-skin-what-to-use-and-what-to-skip
     date: 2026-07-20
+  - n: 57
+    slug: skincare-routine-in-your-20s-vs-30s-what-actually-changes
+    date: 2026-07-20
 
 in_progress: []
 
@@ -218,7 +221,6 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Skincare Routine in Your 20s vs 30s: What Actually Changes"
       - "Skincare Routine for Mature Skin: A Simple Anti-Aging Order"
       - "Men's Skincare Routine: The 3 Steps That Matter"
       - "What Is Skin Cycling? A Simple Beginner Schedule"
