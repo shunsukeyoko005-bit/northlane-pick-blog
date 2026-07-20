@@ -197,6 +197,9 @@ published:
   - n: 57
     slug: skincare-routine-in-your-20s-vs-30s-what-actually-changes
     date: 2026-07-20
+  - n: 58
+    slug: skincare-routine-for-mature-skin-a-simple-anti-aging-order
+    date: 2026-07-20
 
 in_progress: []
 
@@ -221,7 +224,6 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Skincare Routine for Mature Skin: A Simple Anti-Aging Order"
       - "Men's Skincare Routine: The 3 Steps That Matter"
       - "What Is Skin Cycling? A Simple Beginner Schedule"
       - "Chemical vs Physical Exfoliation: Which One Fits Your Skin"
