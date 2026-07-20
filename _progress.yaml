@@ -191,6 +191,9 @@ published:
   - n: 55
     slug: sunscreen-for-lake-days-spf-for-boats-docks-and-reapplication
     date: 2026-07-19
+  - n: 56
+    slug: skincare-routine-for-acne-prone-skin-what-to-use-and-what-to-skip
+    date: 2026-07-20
 
 in_progress: []
 
@@ -215,7 +218,6 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Skincare Routine for Acne-Prone Skin: What to Use and What to Skip"
       - "Skincare Routine in Your 20s vs 30s: What Actually Changes"
       - "Skincare Routine for Mature Skin: A Simple Anti-Aging Order"
       - "Men's Skincare Routine: The 3 Steps That Matter"
