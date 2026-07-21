@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-20
+  updated: 2026-07-21
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -200,6 +200,9 @@ published:
   - n: 58
     slug: skincare-routine-for-mature-skin-a-simple-anti-aging-order
     date: 2026-07-20
+  - n: 59
+    slug: mens-skincare-routine-the-3-steps-that-matter
+    date: 2026-07-21
 
 in_progress: []
 
@@ -224,7 +227,6 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Men's Skincare Routine: The 3 Steps That Matter"
       - "What Is Skin Cycling? A Simple Beginner Schedule"
       - "Chemical vs Physical Exfoliation: Which One Fits Your Skin"
       - "Best Retinol Serum for Beginners (Start Without the Purge)"
