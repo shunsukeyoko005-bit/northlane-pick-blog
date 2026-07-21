@@ -206,6 +206,9 @@ published:
   - n: 60
     slug: what-is-skin-cycling-a-simple-beginner-schedule
     date: 2026-07-21
+  - n: 61
+    slug: chemical-vs-physical-exfoliation-which-one-fits-your-skin
+    date: 2026-07-21
 
 in_progress: []
 
@@ -230,6 +233,5 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Chemical vs Physical Exfoliation: Which One Fits Your Skin"
       - "Best Retinol Serum for Beginners (Start Without the Purge)"
       - "Best Hyaluronic Acid Serum for Dry Skin"
