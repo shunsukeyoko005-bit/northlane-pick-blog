@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-21
+  updated: 2026-07-22
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -209,6 +209,9 @@ published:
   - n: 61
     slug: chemical-vs-physical-exfoliation-which-one-fits-your-skin
     date: 2026-07-21
+  - n: 62
+    slug: best-retinol-serum-for-beginners-start-without-the-purge
+    date: 2026-07-22
 
 in_progress: []
 
@@ -233,5 +236,4 @@ backlog:
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas:
-      - "Best Retinol Serum for Beginners (Start Without the Purge)"
       - "Best Hyaluronic Acid Serum for Dry Skin"
