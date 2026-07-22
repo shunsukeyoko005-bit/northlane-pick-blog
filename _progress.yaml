@@ -212,6 +212,9 @@ published:
   - n: 62
     slug: best-retinol-serum-for-beginners-start-without-the-purge
     date: 2026-07-22
+  - n: 63
+    slug: best-hyaluronic-acid-serum-for-dry-skin
+    date: 2026-07-22
 
 in_progress: []
 
@@ -235,5 +238,4 @@ backlog:
       - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
-    ideas:
-      - "Best Hyaluronic Acid Serum for Dry Skin"
+    ideas: []
