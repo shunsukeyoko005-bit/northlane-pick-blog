@@ -226,6 +226,9 @@ published:
   - n: 64
     slug: best-sunscreen-for-acne-prone-skin
     date: 2026-08-02
+  - n: 65
+    slug: best-mineral-sunscreen-for-sensitive-skin-2026-picks
+    date: 2026-08-02
 
 in_progress: []
 
@@ -236,7 +239,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Mineral Sunscreen for Sensitive Skin (2026 Picks)"
       - "Best Sunscreen for Rosacea (Calming, Fragrance-Free Picks)"
       - "Best Face Sunscreen for Men (No Shine, No Scent)"
       - "Best SPF Moisturizer 2-in-1 (Skip a Step, Still Protected)"
