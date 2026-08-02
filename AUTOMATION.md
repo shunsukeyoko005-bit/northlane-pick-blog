@@ -1,6 +1,8 @@
 # North Lane Pick Blog — Cloud Automation Rules
 
 > Repo: `shunsukeyoko005-bit/northlane-pick-blog` · Site: https://northlanepick.com
+>
+> **All required files are inside this repo.** Do not look for `../research/` or any path outside the repository.
 
 ## Each run (9am / 3pm / 9pm JST slot)
 
@@ -9,6 +11,8 @@ Publish **exactly one** article per run. If this slot should not publish today, 
 **Do NOT open a pull request. Push directly to main.**
 
 **A run is FAILED if you stop before `git push origin main` succeeds** (unless slot says SKIP).
+
+**Never SKIP because automation "should pause" or SEO strategy changed.** Publishing continues every day unless the slot table below says SKIP.
 
 ---
 
@@ -22,15 +26,19 @@ Use **JST calendar date** for `today`. Count `today_count` = rows in `_progress.
 |------------------|-------------|-------------|
 | through 2026-07-14 | 2 | 3 |
 | 2026-07-15 – 2026-07-31 | 3 | 4 |
-| 2026-08-01 onward | 4 | 5 |
+| 2026-08-01 onward | 3 | 3 |
 
-### Slot rules (exact)
+> August+ uses **3 slots → 3 articles/day**. Do not invent a 4th slot.
+
+### Slot rules (exact) — catch-up allowed
+
+If an earlier slot failed, later slots **must catch up** (do not leave the day at 0).
 
 | Slot | JST time | **RUN** when | **SKIP** when |
 |------|----------|--------------|---------------|
-| Morning | 9:00 | `today_count == 0` | `today_count >= daily_max` |
-| Afternoon | 15:00 | `today_count == 1` and `daily_min >= 2` | `today_count == 0` OR `today_count >= 2` |
-| Evening | 21:00 | `today_count == 2` and `daily_max >= 3` | `today_count < 2` OR `today_count >= 3` |
+| Morning | 9:00 | `today_count < 1` and `today_count < daily_max` | `today_count >= daily_max` |
+| Afternoon | 15:00 | `today_count < 2` and `today_count < daily_max` | `today_count >= 2` OR `today_count >= daily_max` |
+| Evening | 21:00 | `today_count < 3` and `today_count < daily_max` | `today_count >= 3` OR `today_count >= daily_max` |
 
 The automation prompt includes which slot this run is. **Honor the slot table above.**
 
@@ -38,23 +46,28 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 
 ## Topic pick (when slot says RUN)
 
-> **SEO direction is secretary-controlled (2026-07-19).** See `../research/2026-07-19-seo-topic-strategy.md` for the full rationale. Do not deviate from it without a new dated research note.
+SEO direction (secretary, 2026-07-19, still active):
 
-1. Read `_progress.yaml` → `backlog`. Each cluster's `ideas` list is curated by the secretary — use titles from it as-is (do not rewrite the angle).
-2. **Balance the two clusters** — check the count of `published` entries per cluster (by slug pattern: `sunscreen-*`/`spf-*`/`*-sunscreen-*` = sunscreen-spf; everything else = skincare-routine). Pick from whichever cluster is currently smaller. If counts are equal, prefer `sunscreen-spf`.
+- Prefer **Best X / skin-concern / life-stage / ingredient** titles
+- **Do not invent new "scene" SPF titles** (e.g. "Sunscreen for [activity/event]") — that pattern is saturated
+- Balance `sunscreen-spf` vs `skincare-routine` clusters
+
+1. Read `_progress.yaml` → `backlog`. Use titles from `ideas` as-is when possible.
+2. **Balance clusters** — slug patterns: `sunscreen-*` / `spf-*` / `*-sunscreen-*` = sunscreen-spf; everything else = skincare-routine. Pick from the smaller cluster. If equal, prefer `sunscreen-spf`.
 3. **If the preferred cluster has `ideas: []`, pick from any other cluster that has ideas.** Never abort because one cluster is empty.
-4. **Do not invent new "scene" SPF titles** (e.g. "Sunscreen for [activity/event]") — that pattern is saturated (23+ published). If you must invent a title because all clusters are empty, invent a **skin-concern, life-stage, ingredient, or "Best X" comparison** title instead (matches the patterns already in the backlog), US English, beauty/skincare only.
-5. Before finalizing a title, **check it against every slug in `published`** — skip if the topic is a near-duplicate (same scene/concern already covered) and pick the next backlog idea instead.
-6. If all clusters are empty, invent one title following rule 4 and continue — do not SKIP for empty backlog.
+4. If you must invent a title because all clusters are empty, invent a **skin-concern, life-stage, ingredient, or "Best X"** title (US English, beauty/skincare only). Never invent a new scene-SPF title.
+5. Before finalizing, check against every slug in `published` — skip near-duplicates and take the next idea.
+6. If all clusters are empty, invent one title following rule 4 and continue — **do not SKIP for empty backlog**.
 
 ---
 
 ## Publish steps (only if slot says RUN)
 
-1. Read `_progress.yaml`, `AUTOMATION.md`, `IMAGES.md`, and **`COPY-INTRO-DIAGNOSIS.md`**. Apply slot decision.
+1. Read `_progress.yaml`, `AUTOMATION.md`, `IMAGES.md`, `COPY-INTRO-DIAGNOSIS.md`, and **`VOICE.md`**. Apply slot decision.
 2. Pick **one** title (see Topic pick above). Slug = kebab-case from title.
 3. Write `src/content/blog/<slug>.md` matching existing article frontmatter style.
-   - **Intro (required):** Diagnosis-style opening per `COPY-INTRO-DIAGNOSIS.md` — trap → cost of unchanged → bridge (3–5 short paragraphs under H1, **no affiliate links in intro**).
+   - **Voice (required, new articles only — 2026-07-22~):** Apply busy-parent voice per `VOICE.md`.
+   - **Intro (required):** Diagnosis-style opening per `COPY-INTRO-DIAGNOSIS.md` — trap → cost of unchanged → bridge (3–5 short paragraphs under H1, **no affiliate links in intro**), written in the voice above.
 4. **Cover image (required — see `IMAGES.md`):**
    - Create a **real photo** `public/images/covers/<slug>.jpg` (1200×630, beauty/skincare, no text overlay).
    - Add to frontmatter: `cover_image: "/images/covers/<slug>.jpg"`
@@ -88,6 +101,7 @@ The automation prompt includes which slot this run is. **Honor the slot table ab
 - Opening a pull request (push to `main` directly)
 - Publishing outside the slot rules
 - SKIP because a single backlog cluster is empty
+- SKIP because "SEO pause" / "wait for strategy" / missing files outside this repo
 - Thin / duplicate cluster spam
-- **New "scene" SPF titles** (activity/event-based) — cluster is saturated; see Topic pick rule 4
+- **New "scene" SPF titles** (activity/event-based)
 - Mixing other brands (PawThrive, cleanpup, FBA, Get Arigato)

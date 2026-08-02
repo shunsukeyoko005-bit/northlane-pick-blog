@@ -4,13 +4,13 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-07-22
+  updated: 2026-08-02
 
 cadence:
   "~2026-07-14": 2-3/day
   "2026-07-15~07-31": 3-4/day
-  "2026-08~": 4-5/day
-  rule: One article per automation run. Never push 2+ articles in one run.
+  "2026-08~": 3/day
+  rule: One article per automation run. Never push 2+ articles in one run. Catch-up allowed in later slots.
   publish_slots_jst:
     - "09:00"
     - "15:00"
@@ -24,6 +24,14 @@ verified_asins:
   B00TTD9BRC: "CeraVe Foaming Facial Cleanser"
   B01LXAZL30: "The Ordinary Niacinamide 10% + Zinc 1%"
   B00TTD9CR8: "CeraVe Moisturizing Cream"
+  # Added 2026-07-21 (confirmed on live amazon.com)
+  B00016XJ4M: "Thayers Rose Petal Witch Hazel Toner"
+  B01MYEZPC8: "The Ordinary Hyaluronic Acid 2% + B5"
+  B07PNCCLD2: "CeraVe Skin Renewing Vitamin C Serum"
+  B07VWSN95S: "CeraVe Resurfacing Retinol Serum"
+  B07GC74LL5: "Cetaphil Gentle Skin Cleanser (20 fl oz)"
+  B00JJPMXDO: "CeraVe Eye Repair Cream"
+  B01MDOA0V4: "Neutrogena Sheer Zinc Oxide Dry-Touch Mineral Sunscreen SPF 50"
 
 published:
   - n: 1
@@ -215,18 +223,19 @@ published:
   - n: 63
     slug: best-hyaluronic-acid-serum-for-dry-skin
     date: 2026-07-22
+  - n: 64
+    slug: best-sunscreen-for-acne-prone-skin
+    date: 2026-08-02
 
 in_progress: []
 
-# SEO方向性は秘書が管理（2026-07-19確定）: research/2026-07-19-seo-topic-strategy.md
-# シーン型SPF（theme park/baseball/pickleball等）は23本で飽和のため一時停止。
-# 優先: Best X比較（肌タイプ・悩み別）と Routine の年代別・悩み別で SPF:Routine の偏りを解消。
-# 新規タイトルはpublishedのslugと必ず突合してから使うこと（重複防止）。
+# SEO direction (2026-07-19): pause new scene-SPF titles; prefer Best X / skin-concern / life-stage.
+# Automation rules live in AUTOMATION.md + VOICE.md (in-repo only).
+# Prefer verified_asins in article body when the topic matches.
 backlog:
   - cluster: sunscreen-spf
-    priority: "best-x comparisons + skin-concern guides (not new scenes) — see research/2026-07-19-seo-topic-strategy.md"
+    priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Sunscreen for Acne-Prone Skin (Won't Clog Pores)"
       - "Best Mineral Sunscreen for Sensitive Skin (2026 Picks)"
       - "Best Sunscreen for Rosacea (Calming, Fragrance-Free Picks)"
       - "Best Face Sunscreen for Men (No Shine, No Scent)"
