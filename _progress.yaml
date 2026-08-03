@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-02
+  updated: 2026-08-03
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -229,6 +229,9 @@ published:
   - n: 65
     slug: best-mineral-sunscreen-for-sensitive-skin-2026-picks
     date: 2026-08-02
+  - n: 66
+    slug: best-sunscreen-for-rosacea-calming-fragrance-free-picks
+    date: 2026-08-03
 
 in_progress: []
 
@@ -239,7 +242,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Sunscreen for Rosacea (Calming, Fragrance-Free Picks)"
       - "Best Face Sunscreen for Men (No Shine, No Scent)"
       - "Best SPF Moisturizer 2-in-1 (Skip a Step, Still Protected)"
       - "Best Sunscreen for Mature Skin (SPF That Doesn't Sit in Fine Lines)"
