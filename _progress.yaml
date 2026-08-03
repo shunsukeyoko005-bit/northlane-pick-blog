@@ -235,6 +235,9 @@ published:
   - n: 67
     slug: best-face-sunscreen-for-men-no-shine-no-scent
     date: 2026-08-03
+  - n: 68
+    slug: best-spf-moisturizer-2-in-1-skip-a-step-still-protected
+    date: 2026-08-03
 
 in_progress: []
 
@@ -245,7 +248,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best SPF Moisturizer 2-in-1 (Skip a Step, Still Protected)"
       - "Best Sunscreen for Mature Skin (SPF That Doesn't Sit in Fine Lines)"
       - "Best Water-Resistant Sunscreen for Swimming and Sweat"
       - "Does Your Foundation SPF Count? (The Honest Answer)"
