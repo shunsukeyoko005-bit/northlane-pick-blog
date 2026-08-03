@@ -232,6 +232,9 @@ published:
   - n: 66
     slug: best-sunscreen-for-rosacea-calming-fragrance-free-picks
     date: 2026-08-03
+  - n: 67
+    slug: best-face-sunscreen-for-men-no-shine-no-scent
+    date: 2026-08-03
 
 in_progress: []
 
@@ -242,7 +245,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Face Sunscreen for Men (No Shine, No Scent)"
       - "Best SPF Moisturizer 2-in-1 (Skip a Step, Still Protected)"
       - "Best Sunscreen for Mature Skin (SPF That Doesn't Sit in Fine Lines)"
       - "Best Water-Resistant Sunscreen for Swimming and Sweat"
