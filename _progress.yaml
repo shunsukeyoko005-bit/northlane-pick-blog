@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-03
+  updated: 2026-08-04
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -238,6 +238,9 @@ published:
   - n: 68
     slug: best-spf-moisturizer-2-in-1-skip-a-step-still-protected
     date: 2026-08-03
+  - n: 69
+    slug: best-sunscreen-for-mature-skin-spf-that-doesnt-sit-in-fine-lines
+    date: 2026-08-04
 
 in_progress: []
 
@@ -248,7 +251,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Sunscreen for Mature Skin (SPF That Doesn't Sit in Fine Lines)"
       - "Best Water-Resistant Sunscreen for Swimming and Sweat"
       - "Does Your Foundation SPF Count? (The Honest Answer)"
       - "How Much Sunscreen Should You Actually Apply? (The Two-Finger Rule)"
