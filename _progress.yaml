@@ -241,6 +241,9 @@ published:
   - n: 69
     slug: best-sunscreen-for-mature-skin-spf-that-doesnt-sit-in-fine-lines
     date: 2026-08-04
+  - n: 70
+    slug: best-water-resistant-sunscreen-for-swimming-and-sweat
+    date: 2026-08-04
 
 in_progress: []
 
@@ -251,7 +254,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Best Water-Resistant Sunscreen for Swimming and Sweat"
       - "Does Your Foundation SPF Count? (The Honest Answer)"
       - "How Much Sunscreen Should You Actually Apply? (The Two-Finger Rule)"
       - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
