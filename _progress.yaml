@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-04
+  updated: 2026-08-05
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -244,6 +244,9 @@ published:
   - n: 70
     slug: best-water-resistant-sunscreen-for-swimming-and-sweat
     date: 2026-08-04
+  - n: 71
+    slug: how-much-sunscreen-should-you-actually-apply-the-two-finger-rule
+    date: 2026-08-05
 
 in_progress: []
 
@@ -255,7 +258,6 @@ backlog:
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
       - "Does Your Foundation SPF Count? (The Honest Answer)"
-      - "How Much Sunscreen Should You Actually Apply? (The Two-Finger Rule)"
       - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
