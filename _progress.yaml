@@ -247,6 +247,9 @@ published:
   - n: 71
     slug: how-much-sunscreen-should-you-actually-apply-the-two-finger-rule
     date: 2026-08-05
+  - n: 72
+    slug: does-your-foundation-spf-count-the-honest-answer
+    date: 2026-08-05
 
 in_progress: []
 
@@ -257,7 +260,6 @@ backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
     ideas:
-      - "Does Your Foundation SPF Count? (The Honest Answer)"
       - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
