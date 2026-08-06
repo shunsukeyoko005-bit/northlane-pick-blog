@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-05
+  updated: 2026-08-06
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -250,6 +250,9 @@ published:
   - n: 72
     slug: does-your-foundation-spf-count-the-honest-answer
     date: 2026-08-05
+  - n: 73
+    slug: sunscreen-ingredients-to-know-zinc-oxide-vs-avobenzone
+    date: 2026-08-06
 
 in_progress: []
 
@@ -259,8 +262,7 @@ in_progress: []
 backlog:
   - cluster: sunscreen-spf
     priority: "best-x comparisons + skin-concern guides (not new scenes)"
-    ideas:
-      - "Sunscreen Ingredients to Know: Zinc Oxide vs Avobenzone"
+    ideas: []
   - cluster: skincare-routine
     priority: "life-stage + skin-concern + ingredient how-to — rebalance vs SPF cluster"
     ideas: []
