@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-06
+  updated: 2026-08-07
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -259,6 +259,9 @@ published:
   - n: 75
     slug: best-fragrance-free-moisturizers-for-sensitive-skin-comfort-without-the-sting
     date: 2026-08-06
+  - n: 76
+    slug: best-eye-cream-for-tired-mornings-what-helps-and-what-to-skip
+    date: 2026-08-07
 
 in_progress: []
 
