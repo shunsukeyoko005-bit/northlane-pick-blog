@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-07
+  updated: 2026-08-08
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -268,6 +268,9 @@ published:
   - n: 78
     slug: best-gel-moisturizer-for-oily-skin-hydrate-without-greasy-feel
     date: 2026-08-07
+  - n: 79
+    slug: best-peptide-serum-for-mature-skin-simple-firming-support
+    date: 2026-08-08
 
 in_progress: []
 
