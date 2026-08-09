@@ -8,9 +8,14 @@
 
 Publish **exactly one** article per run. If this slot should not publish today, **exit without commit or push** and report `SKIPPED: <reason>`.
 
-**Do NOT open a pull request. Push directly to main.**
+**Do NOT open a pull request. Push the current Cloud Agent commit directly to main.**
 
-**A run is FAILED if you stop before `git push origin main` succeeds** (unless slot says SKIP).
+Cloud Agent may check out an isolated `cursor/...` branch. Therefore, **never use
+`git push origin main`**: that pushes the local `main` ref and can leave the new
+article stranded on the isolated branch. Always push the checked-out commit with
+`git push origin HEAD:main`.
+
+**A run is FAILED if you stop before `git push origin HEAD:main` succeeds** (unless slot says SKIP).
 
 **Never SKIP because automation "should pause" or SEO strategy changed.** Publishing continues every day unless the slot table below says SKIP.
 
@@ -87,15 +92,23 @@ SEO direction (secretary, 2026-07-19, still active):
     ```bash
     git add src/content/blog/<slug>.md public/images/covers/<slug>.jpg _progress.yaml
     git commit -m "Add article: <slug>"
-    git push origin main
+    git push origin HEAD:main
     ```
-    - If push fails, fix the error and **retry push once**.
+    - `HEAD:main` is mandatory because Cloud Agent may be on `cursor/...`, not local `main`.
+    - If push is rejected because remote main advanced, run:
+      ```bash
+      git fetch origin main
+      git rebase origin/main
+      git push origin HEAD:main
+      ```
+    - Fix any other push error and **retry push once**.
     - Do not end the run until push succeeds or you report `FAILED: <reason>`.
 11. Report: `PUBLISHED: <slug> · today's count · slot · cover: <slug>.jpg · intro: diagnosis · pushed: yes`
 
 ### Forbidden
 
 - 2+ articles or 2+ pushes in one run
+- `git push origin main` (wrong ref in an isolated Cloud Agent branch)
 - **Publishing without `cover_image` + `.jpg` / `.webp` file**
 - Stopping after commit without push
 - Opening a pull request (push to `main` directly)

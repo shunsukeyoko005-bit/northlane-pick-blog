@@ -6,7 +6,7 @@
 ## Shared prompt (change only the Slot line per automation)
 
 ```
-North Lane Pick blog — ONE article per run. You MUST finish with git push to main.
+North Lane Pick blog — ONE article per run. You MUST finish by pushing the current commit to main.
 
 Read AUTOMATION.md, IMAGES.md, COPY-INTRO-DIAGNOSIS.md, VOICE.md, and _progress.yaml FIRST.
 Stay inside this repo only. Do not look for files outside the repository.
@@ -23,10 +23,12 @@ Stay inside this repo only. Do not look for files outside the repository.
 
 4. git add article + public/images/covers/<slug>.jpg + _progress.yaml
    git commit -m "Add article: <slug>"
-   git push origin main
-   - Retry push once on failure. Report FAILED if push still fails.
+   git push origin HEAD:main
+   - Cloud Agent may be on a cursor/... branch. HEAD:main is mandatory; never use `git push origin main`.
+   - If remote main advanced: git fetch origin main → git rebase origin/main → retry `git push origin HEAD:main`.
+   - Retry once on any other failure. Report FAILED if push still fails.
 
-FORBIDDEN: pull request · SVG-only cover · stopping before push · 2+ articles per run · scene-SPF titles.
+FORBIDDEN: pull request · `git push origin main` · SVG-only cover · stopping before push · 2+ articles per run · scene-SPF titles.
 
 Slot: <SLOT LINE BELOW>
 ```
