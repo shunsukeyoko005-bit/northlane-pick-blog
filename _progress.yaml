@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-09
+  updated: 2026-08-10
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -277,6 +277,9 @@ published:
   - n: 81
     slug: best-peptide-serum-for-fine-lines-firm-looking-skin-without-a-10-step-routine
     date: 2026-08-09
+  - n: 82
+    slug: best-panthenol-serum-for-sensitive-skin-soothe-the-feel-without-overloading-your-routine
+    date: 2026-08-10
 
 in_progress: []
 
