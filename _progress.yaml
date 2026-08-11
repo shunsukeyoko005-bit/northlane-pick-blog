@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-10
+  updated: 2026-08-11
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -286,6 +286,9 @@ published:
   - n: 84
     slug: best-squalane-oil-for-dry-skin-seal-in-comfort-without-a-greasy-routine
     date: 2026-08-10
+  - n: 85
+    slug: best-beta-glucan-serum-for-sensitive-skin-calm-the-feel-without-a-crowded-routine
+    date: 2026-08-11
 
 in_progress: []
 
