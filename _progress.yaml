@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-12
+  updated: 2026-08-13
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -301,6 +301,9 @@ published:
   - n: 89
     slug: best-sunscreen-for-dark-spots-daily-spf-without-a-heavy-routine
     date: 2026-08-12
+  - n: 90
+    slug: best-milky-toner-for-dry-skin-comfort-without-a-sticky-routine
+    date: 2026-08-13
 
 in_progress: []
 
