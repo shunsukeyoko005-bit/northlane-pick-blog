@@ -452,3 +452,19 @@ blockquote {
 .site-footer p {
   margin: 0.4rem 0;
 }
+
+.related-posts {
+  margin: 2.75rem 0 1rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--line);
+}
+
+.related-posts__heading {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  margin: 0 0 1.25rem;
+}
+
+.related-posts .post-grid {
+  margin-top: 0;
+}

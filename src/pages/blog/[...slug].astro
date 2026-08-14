@@ -1,18 +1,46 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
 import { coverForSlug } from '../../lib/covers';
+import { pickRelated } from '../../lib/related-posts';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
   return posts.map((post) => ({
     params: { slug: post.id },
-    props: { post },
+    props: { post, posts },
   }));
 }
 
-const { post } = Astro.props;
+const { post, posts } = Astro.props;
 const { Content } = await render(post);
+const related = pickRelated(posts, post, 3);
+const canonical = new URL(`/blog/${post.id}/`, Astro.site).href;
+const coverImage = coverForSlug(post.id, post.data.cover_image);
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.created,
+  image: coverImage ? new URL(coverImage, Astro.site).href : undefined,
+  mainEntityOfPage: canonical,
+  author: { '@type': 'Organization', name: 'North Lane Pick' },
+  publisher: {
+    '@type': 'Organization',
+    name: 'North Lane Pick',
+    url: 'https://northlanepick.com',
+  },
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://northlanepick.com/' },
+    { '@type': 'ListItem', position: 2, name: post.data.title, item: canonical },
+  ],
+};
 
 const clusterLabels: Record<string, string> = {
   'sunscreen-spf': 'Sunscreen & SPF',
@@ -31,13 +59,13 @@ const formattedDate = post.data.created
     })
   : null;
 
-const coverImage = coverForSlug(post.id, post.data.cover_image);
 ---
 
 <Base
   title={post.data.title}
   description={post.data.description}
   ogImage={coverImage}
+  jsonLd={[articleLd, breadcrumbLd]}
   narrow
 >
   <header class="article-hero">
@@ -62,4 +90,26 @@ const coverImage = coverForSlug(post.id, post.data.cover_image);
   <article class="article-body">
     <Content />
   </article>
+  {
+    related.length > 0 && (
+      <aside class="related-posts">
+        <p class="section-label">Related guides</p>
+        <h2 class="related-posts__heading">Keep reading</h2>
+        <ul class="post-grid related-posts__grid">
+          {related.map((item) => (
+            <li>
+              <PostCard
+                href={`/blog/${item.id}/`}
+                title={item.data.title}
+                description={item.data.description}
+                cluster={item.data.cluster}
+                created={item.data.created}
+                coverImage={coverForSlug(item.id, item.data.cover_image)}
+              />
+            </li>
+          ))}
+        </ul>
+      </aside>
+    )
+  }
 </Base>

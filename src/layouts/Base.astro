@@ -6,6 +6,7 @@ interface Props {
   description?: string;
   narrow?: boolean;
   ogImage?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -13,9 +14,17 @@ const {
   description = 'Curated skincare and SPF picks and simple guides for US shoppers.',
   narrow = false,
   ogImage,
+  jsonLd,
 } = Astro.props;
 
 const ogImageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
+const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'North Lane Pick',
+  url: 'https://northlanepick.com',
+};
 
 const year = new Date().getFullYear();
 ---
@@ -32,6 +41,12 @@ const year = new Date().getFullYear();
     {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
     {ogImageUrl && <meta name="twitter:card" content="summary_large_image" />}
     {ogImageUrl && <meta name="twitter:image" content={ogImageUrl} />}
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(organizationLd)} />
+    {
+      jsonLdBlocks.map((block) => (
+        <script is:inline type="application/ld+json" set:html={JSON.stringify(block)} />
+      ))
+    }
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
