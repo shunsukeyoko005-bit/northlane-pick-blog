@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-13
+  updated: 2026-08-14
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -310,6 +310,9 @@ published:
   - n: 92
     slug: best-urea-moisturizer-for-rough-dry-skin-smooth-comfort-without-a-heavy-routine
     date: 2026-08-13
+  - n: 93
+    slug: best-sunscreen-for-fair-skin-high-protection-spf-without-the-chalky-cast
+    date: 2026-08-14
 
 in_progress: []
 
