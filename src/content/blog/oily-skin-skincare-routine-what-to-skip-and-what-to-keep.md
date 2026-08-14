@@ -1,7 +1,7 @@
 ---
-title: "Oily Skin Skincare Routine: What to Skip and What to Keep"
+title: "Skincare Routine for Oily Skin: What to Skip and What to Keep"
 slug: "oily-skin-skincare-routine-what-to-skip-and-what-to-keep"
-description: "An oily skin skincare routine should control shine without stripping your barrier. Learn what to skip, what to keep, and how to build a simple morning and night routine."
+description: "A skincare routine for oily skin should control shine without stripping your barrier. Here is what to skip, what to keep, and a simple morning and night order."
 cluster: "skincare-routine"
 status: "published"
 created: "2026-07-09"
@@ -11,7 +11,7 @@ cover_image: "/images/covers/oily-skin-skincare-routine-what-to-skip-and-what-to
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
 
-# Oily Skin Skincare Routine: What to Skip and What to Keep
+# Skincare Routine for Oily Skin: What to Skip and What to Keep
 
 If your face gets shiny by lunch, it is easy to treat every product like the enemy. A common trap is chasing a completely matte finish with stronger cleansers, less moisturizer, and more oil-control steps until your skin feels tight underneath the shine.
 

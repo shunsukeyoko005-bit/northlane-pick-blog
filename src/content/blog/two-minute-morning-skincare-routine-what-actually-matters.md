@@ -1,7 +1,7 @@
 ---
-title: "Two-Minute Morning Skincare Routine: What Actually Matters"
+title: "Morning Skincare Routine in Two Minutes: What Actually Matters"
 slug: "two-minute-morning-skincare-routine-what-actually-matters"
-description: "A two-minute morning skincare routine can still cover the essentials. Learn what to keep, what to skip, and how to make cleanser, moisturizer, and SPF happen on rushed mornings."
+description: "A morning skincare routine can still work in two minutes. Keep cleanser, moisturizer, and SPF, skip the extras, and get out the door without a 10-step shelf."
 cluster: "skincare-routine"
 status: "published"
 created: "2026-07-10"
@@ -11,7 +11,7 @@ cover_image: "/images/covers/two-minute-morning-skincare-routine-what-actually-m
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
 
-# Two-Minute Morning Skincare Routine: What Actually Matters
+# Morning Skincare Routine in Two Minutes: What Actually Matters
 
 Most rushed mornings do not fail because you lack the perfect product. They fail because the routine asks for too many decisions before coffee, so you skip everything and promise to start again tomorrow.
 

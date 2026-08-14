@@ -1,7 +1,7 @@
 ---
-title: "Best Sunscreens That Don't Leave a White Cast (For Every Skin Tone)"
+title: "Best Sunscreen With No White Cast (For Dark Skin and Every Tone)"
 slug: "best-sunscreens-no-white-cast"
-description: "White cast is the #1 reason people skip sunscreen. Here are the best invisible, no-white-cast SPF picks for deeper and lighter skin tones — plus what to look for on the label."
+description: "Best sunscreen with no white cast: what to look for on the label, why zinc formulas can look ashy, and simple Amazon picks for dark skin and other tones."
 cluster: "sunscreen-spf"
 status: "published"
 created: "2026-07-02"
@@ -11,7 +11,7 @@ cover_image: "/images/covers/best-sunscreens-no-white-cast.jpg"
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
 
-# Best Sunscreens That Don't Leave a White Cast (For Every Skin Tone)
+# Best Sunscreen With No White Cast (For Dark Skin and Every Tone)
 
 You know the look: you apply sunscreen, step into the sun, and your face suddenly has a gray or chalky film. That's **white cast** — and it's the main reason people (especially on medium-to-deep skin tones) skip SPF.
 

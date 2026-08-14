@@ -1,7 +1,7 @@
 ---
-title: "Sunscreen for Outdoor Yoga: SPF for Mats, Sweat, and Shade"
+title: "Sunscreen for Outdoor Yoga: SPF for Sweat, Shade, and Reapplication"
 slug: "sunscreen-for-outdoor-yoga-spf-for-mats-sweat-and-shade"
-description: "Sunscreen for outdoor yoga helps you protect face, neck, shoulders, hands, and legs while handling sweat, mats, shade shifts, and post-class errands."
+description: "Sunscreen for outdoor yoga: what to apply before class, how sweat and shifting shade change reapplication, and which spots outdoor practice usually misses."
 cluster: "sunscreen-spf"
 status: "published"
 created: "2026-07-17"
@@ -11,7 +11,7 @@ cover_image: "/images/covers/sunscreen-for-outdoor-yoga-spf-for-mats-sweat-and-s
 
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links, which means I may earn a commission at no extra cost to you.*
 
-# Sunscreen for Outdoor Yoga: SPF for Mats, Sweat, and Shade
+# Sunscreen for Outdoor Yoga: SPF for Sweat, Shade, and Reapplication
 
 Outdoor yoga can feel gentle because you are not running, swimming, or sitting at the beach. The trap is assuming a slow class means low sun exposure while your shoulders, hairline, hands, shins, and the back of your neck stay uncovered for the whole flow.
 
