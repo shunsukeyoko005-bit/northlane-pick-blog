@@ -18,28 +18,25 @@ const { Content } = await render(post);
 const related = pickRelated(posts, post, 3);
 const canonical = new URL(`/blog/${post.id}/`, Astro.site).href;
 const coverImage = coverForSlug(post.id, post.data.cover_image);
+const imageUrl = coverImage ? new URL(coverImage, Astro.site).href : undefined;
 const articleLd = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  '@type': 'BlogPosting',
   headline: post.data.title,
   description: post.data.description,
   datePublished: post.data.created,
-  image: coverImage ? new URL(coverImage, Astro.site).href : undefined,
-  mainEntityOfPage: canonical,
-  author: { '@type': 'Organization', name: 'North Lane Pick' },
+  dateModified: post.data.created,
+  inLanguage: 'en-US',
+  image: imageUrl
+    ? { '@type': 'ImageObject', url: imageUrl }
+    : undefined,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  author: { '@type': 'Organization', name: 'North Lane Pick', url: 'https://northlanepick.com' },
   publisher: {
     '@type': 'Organization',
     name: 'North Lane Pick',
     url: 'https://northlanepick.com',
   },
-};
-const breadcrumbLd = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://northlanepick.com/' },
-    { '@type': 'ListItem', position: 2, name: post.data.title, item: canonical },
-  ],
 };
 
 const clusterLabels: Record<string, string> = {
@@ -50,6 +47,15 @@ const clusterLabels: Record<string, string> = {
 const clusterLabel = post.data.cluster
   ? (clusterLabels[post.data.cluster] ?? post.data.cluster)
   : null;
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://northlanepick.com/' },
+    { '@type': 'ListItem', position: 2, name: post.data.title, item: canonical },
+  ],
+};
 
 const formattedDate = post.data.created
   ? new Date(`${post.data.created}T12:00:00`).toLocaleDateString('en-US', {
@@ -68,6 +74,21 @@ const formattedDate = post.data.created
   jsonLd={[articleLd, breadcrumbLd]}
   narrow
 >
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="/">Home</a></li>
+      {
+        clusterLabel && (
+          <li>
+            <span>{clusterLabel}</span>
+          </li>
+        )
+      }
+      <li>
+        <span aria-current="page">{post.data.title}</span>
+      </li>
+    </ol>
+  </nav>
   <header class="article-hero">
     <div class="article-hero__cover">
       <img src={coverImage} alt="" width="1200" height="630" decoding="async" />
