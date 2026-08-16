@@ -14,7 +14,8 @@ Stay inside this repo only. Do not look for files outside the repository.
 1. Apply the slot decision table in AUTOMATION.md (catch-up is allowed).
    - If SKIP: exit without git push. Report: SKIPPED: <reason>
    - If RUN: continue — you MUST push one article before ending.
-   - Never SKIP for "SEO pause", empty preferred cluster, or missing external files.
+   - Never SKIP for "SEO pause", empty preferred cluster, missing external files, or secretary SEO/schema/title work.
+   - Do not stop the 9/15/21 JST cadence. Empty backlog is not a stop. Catch up when the slot table says RUN.
 
 2. Pick one backlog title (any cluster if preferred is empty). Write article + JPG cover per IMAGES.md + VOICE.md.
 

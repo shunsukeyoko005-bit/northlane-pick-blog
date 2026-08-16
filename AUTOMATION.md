@@ -19,6 +19,8 @@ article stranded on the isolated branch. Always push the checked-out commit with
 
 **Never SKIP because automation "should pause" or SEO strategy changed.** Publishing continues every day unless the slot table below says SKIP.
 
+**Do not stop the cadence.** Secretary chats (GSC, schema, titles, strategy) are extra work. They do not pause, disable, or replace the 9:00 / 15:00 / 21:00 JST slots. If an earlier slot missed, this run still catch-up publishes one article when the slot table says RUN. Empty `backlog.ideas` is not a reason to stop.
+
 ---
 
 ## Slot decision (run this FIRST)
@@ -115,6 +117,7 @@ SEO direction (secretary, 2026-07-19, still active):
 - Publishing outside the slot rules
 - SKIP because a single backlog cluster is empty
 - SKIP because "SEO pause" / "wait for strategy" / missing files outside this repo
+- Stopping the daily cadence because a secretary session did SEO, schema, or title work
 - Thin / duplicate cluster spam
 - **New "scene" SPF titles** (activity/event-based)
 - Mixing other brands (PawThrive, cleanpup, FBA, Get Arigato)
