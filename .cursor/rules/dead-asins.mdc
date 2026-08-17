@@ -1,0 +1,13 @@
+---
+description: Never reuse Amazon ASINs that 404 on amazon.com
+alwaysApply: true
+---
+
+# Dead ASINs (North Lane Pick)
+
+Never use ASINs listed under `dead_asins` in `_progress.yaml`.
+
+- `B00TTD9CR8` is dead (CeraVe Moisturizing Cream listing 404s on amazon.com as of 2026-08-17).
+- Replacement: `B01HVLKZ9Q` (CeraVe Moisturizing Cream with Pump 16 oz).
+- Do not confuse with live `B00TTD9BRC` (CeraVe Foaming Facial Cleanser).
+- Confirm `https://www.amazon.com/dp/{ASIN}` returns 200 before adding a new ASIN to `verified_asins`.

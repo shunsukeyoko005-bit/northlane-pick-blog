@@ -135,11 +135,11 @@ If you already use a retinoid or exfoliating acid, do not add another active jus
 
 When people simplify, they sometimes remove moisturizer because it seems less exciting than treatment. That can backfire if skin starts feeling tight, flaky, or more reactive after cleansing.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option for dry areas, night routines, and barrier-supporting simplicity.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option for dry areas, night routines, and barrier-supporting simplicity.
 
 - Best for: dry patches, tight-feeling skin, and routines that need a dependable final step
 - What to watch: use a smaller amount on oily areas if rich creams feel heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 You do not need the same amount everywhere. Apply more where skin gets tight and less where skin gets oily quickly.
 

@@ -77,11 +77,11 @@ Browse [fragrance-free ceramide face moisturizers on Amazon](https://www.amazon.
 
 ## A verified rich cream option
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified option for simple barrier-support routines, dry-feeling areas, and body or face dryness when a richer texture makes sense.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified option for simple barrier-support routines, dry-feeling areas, and body or face dryness when a richer texture makes sense.
 
 - Best for: dry patches, body dryness, simple nighttime moisture, barrier-support routines
 - What to watch: it can feel heavy on oily zones, so use less on the T-zone or keep it for dry areas
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you want a lighter daytime texture, search [lightweight ceramide lotion on Amazon](https://www.amazon.com/s?k=lightweight+ceramide+lotion+face&tag=northlanepick-20) and look for reviews that mention layering under sunscreen without pilling.
 

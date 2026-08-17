@@ -136,11 +136,11 @@ If your skin is dry or reactive, compare [gentle hydrating cleansers on Amazon](
 
 Moisturizer is not optional when you start retinol. It is the support step that helps you tell the difference between a product your skin can learn to tolerate and a routine that is simply too harsh.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer option for dry patches, recovery nights, and skin that feels tight from treatment steps.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer option for dry patches, recovery nights, and skin that feels tight from treatment steps.
 
 - Best for: dry, tight, or barrier-stressed skin
 - What to watch: use less on oily areas if it feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you prefer lighter textures, browse [lightweight barrier moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+barrier+moisturizer+face&tag=northlanepick-20) and compare fragrance-free lotions or gel-creams.
 

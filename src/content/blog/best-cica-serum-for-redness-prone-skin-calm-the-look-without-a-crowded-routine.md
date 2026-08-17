@@ -101,7 +101,7 @@ If your skin feels dry and looks uneven after cleansing, compare [cica ceramide 
 - What to watch: rich textures that pill under SPF
 - How to use it: use at night first if your morning sunscreen is already fussy
 
-A verified moisturizer reference already tracked by this site is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20). It is not a cica serum, but it can help you decide whether your skin first needs a steadier moisturizer before adding a new serum category.
+A verified moisturizer reference already tracked by this site is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20). It is not a cica serum, but it can help you decide whether your skin first needs a steadier moisturizer before adding a new serum category.
 
 ### 5. Cica ampoule or calming serum for minimal routines
 

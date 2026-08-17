@@ -66,11 +66,11 @@ Choose the texture by how your skin feels:
 | Dry cheeks, oily forehead | Light layer all over, extra only where dry |
 | Beard area feels flaky | Work a small amount into skin under facial hair |
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified richer moisturizer option for dry patches, night routines, hands, and skin that feels tight after cleansing.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified richer moisturizer option for dry patches, night routines, hands, and skin that feels tight after cleansing.
 
 - Best for: dry or tight-feeling areas
 - What to watch: use a small amount on oily zones so it does not feel heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you dislike heavier creams, browse [lightweight men's face moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+face+moisturizer+men+fragrance+free&tag=northlanepick-20) and look for formulas that say lightweight, non-greasy, fragrance-free, or layers under sunscreen.
 

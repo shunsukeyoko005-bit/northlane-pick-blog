@@ -23,7 +23,7 @@ verified_asins:
   B0883DRT32: "Supergoop! Glow Stick SPF 50"
   B00TTD9BRC: "CeraVe Foaming Facial Cleanser"
   B01LXAZL30: "The Ordinary Niacinamide 10% + Zinc 1%"
-  B00TTD9CR8: "CeraVe Moisturizing Cream"
+  B01HVLKZ9Q: "CeraVe Moisturizing Cream with Pump 16 oz"
   # Added 2026-07-21 (confirmed on live amazon.com)
   B00016XJ4M: "Thayers Rose Petal Witch Hazel Toner"
   B01MYEZPC8: "The Ordinary Hyaluronic Acid 2% + B5"
@@ -32,6 +32,11 @@ verified_asins:
   B07GC74LL5: "Cetaphil Gentle Skin Cleanser (20 fl oz)"
   B00JJPMXDO: "CeraVe Eye Repair Cream"
   B01MDOA0V4: "Neutrogena Sheer Zinc Oxide Dry-Touch Mineral Sunscreen SPF 50"
+
+# Never use these ASINs in articles, pins, or search-link fallbacks.
+# Confirm amazon.com/dp/{ASIN} returns 200 before adding to verified_asins.
+dead_asins:
+  B00TTD9CR8: "Old CeraVe Moisturizing Cream listing. 404 on amazon.com as of 2026-08-17. Replacement: B01HVLKZ9Q"
 
 published:
   - n: 1

@@ -114,9 +114,9 @@ If dryness is the reason nights feel rough, [The Ordinary Hyaluronic Acid 2% + B
 
 - Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01MYEZPC8?tag=northlanepick-20)
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to seal the night without inventing a new cream.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to seal the night without inventing a new cream.
 
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you already use a retinoid, keep it off bakuchiol nights while testing. [CeraVe Resurfacing Retinol Serum](https://www.amazon.com/dp/B07VWSN95S?tag=northlanepick-20) is a verified retinol option for a different lane, not a same-night partner.
 

@@ -105,11 +105,11 @@ More serum is not always better. Too much can feel sticky, pill under sunscreen,
 
 If dry skin feels tight again after hyaluronic acid, check the moisturizer step before blaming the serum. Hyaluronic acid adds hydration; moisturizer helps keep the routine comfortable for longer.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer option for dry-feeling skin, recovery nights, and routines that need more cushion over lightweight serums.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer option for dry-feeling skin, recovery nights, and routines that need more cushion over lightweight serums.
 
 - Best for: dry cheeks, tight patches, and barrier-supportive routines
 - What to watch: use a smaller amount on oily areas if it feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you prefer lighter textures, compare [gel-cream moisturizers for dry skin on Amazon](https://www.amazon.com/s?k=gel+cream+moisturizer+for+dry+skin&tag=northlanepick-20) and look for formulas that still mention barrier support or long-wear comfort.
 

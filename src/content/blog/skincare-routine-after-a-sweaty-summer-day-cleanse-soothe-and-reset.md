@@ -91,11 +91,11 @@ If your skin stays red after cleansing, simplify the rest of the routine and giv
 
 The minute after cleansing matters. If you wait until your face feels tight and papery, moisturizer has to work harder to bring comfort back.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to consider when skin needs a simple comfort layer after cleansing.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to consider when skin needs a simple comfort layer after cleansing.
 
 - Best for: barrier-supportive moisture after a sweaty day
 - What to watch: use a lighter amount on oily areas and more where skin feels dry
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 Apply moisturizer while skin feels freshly cleansed and comfortable. You do not need a thick layer everywhere. Use enough to prevent that tight rebound feeling, especially around cheeks, mouth, and neck.
 

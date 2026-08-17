@@ -61,11 +61,11 @@ If vitamin C stings or makes your skin flush, use it less often or pause it. Sun
 
 Moisturizer can make sunscreen sit more evenly, especially if your cheeks or eye area get dry. But if your sunscreen is creamy and your skin is oily, a separate moisturizer may make the whole routine feel heavy.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer for dry areas or nighttime barrier-support routines.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer for dry areas or nighttime barrier-support routines.
 
 - Best for: dry patches, simple fragrance-free routines, evening use
 - What to watch: use a small amount in the morning if rich creams feel heavy under SPF
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 For oily or combination skin, consider a lighter gel moisturizer or skip moisturizer in the T-zone if your sunscreen already feels hydrating.
 

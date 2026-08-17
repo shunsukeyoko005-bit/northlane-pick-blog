@@ -105,12 +105,12 @@ These are practical comparison points, not the only good options. Check the curr
 
 ### 1. CeraVe Moisturizing Cream
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified option already tracked by the site. It is a useful starting point when sensitive-feeling skin wants a richer, fragrance-free cream for dry patches, night use, or barrier support.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified option already tracked by the site. It is a useful starting point when sensitive-feeling skin wants a richer, fragrance-free cream for dry patches, night use, or barrier support.
 
 - Best for: dry or tight areas, simple night routines, body-to-face comparison if your skin tolerates richer cream
 - What to watch: heaviness on oily zones or under makeup
 - How to use it: apply a small amount to damp skin or dry patches first, then adjust by zone
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ### 2. Browse fragrance-free face moisturizers for sensitive skin
 
@@ -225,7 +225,7 @@ If the answer is mostly yes, you have a reasonable candidate. If the product sou
 
 The best fragrance-free moisturizer for sensitive skin is not the one with the most claims. It is the one that makes skin feel comfortable, layers under SPF, and does not turn a rushed morning into a sting test.
 
-Start with the label basics: fragrance-free, comfortable texture, simple use, and a formula that fits your dry or oily zones. A verified richer starting point is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20), while Amazon search links can help you compare lighter lotions, gel-creams, and barrier creams if your routine needs a different feel.
+Start with the label basics: fragrance-free, comfortable texture, simple use, and a formula that fits your dry or oily zones. A verified richer starting point is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20), while Amazon search links can help you compare lighter lotions, gel-creams, and barrier creams if your routine needs a different feel.
 
 Comfort is the point. If the moisturizer makes you brace before applying it, it has already failed the job.
 

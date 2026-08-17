@@ -84,6 +84,7 @@ SEO direction (secretary, 2026-07-19, still active):
    - `affiliate_tag: northlanepick-20` (never `northlanepicks-20`)
    - Links: `https://www.amazon.com/dp/{ASIN}?tag=northlanepick-20`
    - No fabricated ASINs — use `verified_asins` or Amazon search links
+   - **Never use ASINs in `dead_asins`** (currently `B00TTD9CR8`). CeraVe Moisturizing Cream replacement is `B01HVLKZ9Q`
    - US English · beauty/skincare only · affiliate disclosure top and bottom
    - No prices in body — "Check current price on Amazon"
 6. `npm install` (if needed) → `npm run build` — must pass.
@@ -121,3 +122,4 @@ SEO direction (secretary, 2026-07-19, still active):
 - Thin / duplicate cluster spam
 - **New "scene" SPF titles** (activity/event-based)
 - Mixing other brands (PawThrive, cleanpup, FBA, Get Arigato)
+- **Using `dead_asins`** (especially `B00TTD9CR8` — 404 on amazon.com; use `B01HVLKZ9Q`)

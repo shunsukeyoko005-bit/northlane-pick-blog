@@ -79,7 +79,7 @@ If your skin feels dry and under-cushioned, compare [ceramide milky toners on Am
 - What to watch: rich textures that may be too much under makeup
 - How to use it: apply one thin layer before moisturizer instead of stacking several toners
 
-For a verified comfort reference already tracked by this site, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is not a toner, but it can help you decide whether your skin first needs a better sealing step.
+For a verified comfort reference already tracked by this site, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is not a toner, but it can help you decide whether your skin first needs a better sealing step.
 
 ### 3. Panthenol milky toners
 
@@ -246,7 +246,7 @@ If the answer is mostly yes, you have a reasonable candidate. If the product nee
 
 The best milky toner for dry skin is not the bottle with the prettiest cloud-like texture. It is the one that adds a small layer of comfort after cleansing, sits well under moisturizer, and makes the routine easier to repeat.
 
-Start with one clear lane: fragrance-free milky toner, ceramide milky toner, panthenol milky toner, oat or rice milky toner, or lightweight essence-lotion. If your basics are shaky, keep a gentle cleanser and reliable moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) can be useful reference points while you compare.
+Start with one clear lane: fragrance-free milky toner, ceramide milky toner, panthenol milky toner, oat or rice milky toner, or lightweight essence-lotion. If your basics are shaky, keep a gentle cleanser and reliable moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) can be useful reference points while you compare.
 
 Dry skin usually does not need a more dramatic shelf. It needs a few steps that feel comfortable enough to do again tomorrow.
 

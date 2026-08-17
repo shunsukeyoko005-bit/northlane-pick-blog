@@ -97,11 +97,11 @@ If you commute home in daylight and then walk the dog, pick up kids, or run erra
 
 Commuting can make skin feel greasy on the surface and dry underneath. The mistake is assuming oil means you should skip moisturizer completely. After cleansing, wait a minute and notice whether cheeks, mouth corners, or the sides of the nose feel tight.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple comfort layer after cleansing.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple comfort layer after cleansing.
 
 - Best for: dry patches, post-cleanse tightness, and barrier comfort
 - What to watch: use a small amount on oily areas or apply only where skin feels dry
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If a richer cream feels too heavy after a humid commute, use it only on dry zones and browse [lightweight face moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+face+moisturizer&tag=northlanepick-20) for gel-cream textures that still leave skin comfortable.
 

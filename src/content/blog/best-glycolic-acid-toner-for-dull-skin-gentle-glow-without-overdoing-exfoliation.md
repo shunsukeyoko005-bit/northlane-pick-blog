@@ -107,9 +107,9 @@ A verified cleanser option for normal-to-oily routines is [CeraVe Foaming Facial
 - Shop cleanser: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 - Shop gentle cleanser: [Check current price on Amazon](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20)
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to use after an acid night.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to use after an acid night.
 
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you already use a retinoid, keep it off glycolic nights while testing. [CeraVe Resurfacing Retinol Serum](https://www.amazon.com/dp/B07VWSN95S?tag=northlanepick-20) is a verified retinol option for a different night.
 

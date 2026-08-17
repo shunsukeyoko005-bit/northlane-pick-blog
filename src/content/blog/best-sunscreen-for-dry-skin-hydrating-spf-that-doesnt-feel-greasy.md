@@ -97,7 +97,7 @@ If your morning routine falls apart because moisturizer plus sunscreen feels lik
 - What to watch: applying too little because it feels like regular moisturizer
 - How to use it: use enough to treat it as sunscreen, not just a finishing lotion
 
-If your moisturizer step is the weak point, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer reference. It is not sunscreen, but it can help you decide whether your dry skin needs better moisturizer support before changing SPF again.
+If your moisturizer step is the weak point, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer reference. It is not sunscreen, but it can help you decide whether your dry skin needs better moisturizer support before changing SPF again.
 
 ### 5. Lightweight hydrating sunscreen fluids
 

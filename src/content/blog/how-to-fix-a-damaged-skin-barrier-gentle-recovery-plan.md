@@ -80,11 +80,11 @@ During recovery, moisturizer is not the optional final touch. It is the step tha
 
 Look for plain, fragrance-free moisturizers with barrier-support language. Ceramides, glycerin, petrolatum, dimethicone, and similar cushiony ingredients can be useful in simple routines because they help reduce the dry, exposed feeling.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich cream option for dry patches, body dryness, or simple barrier-support routines.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich cream option for dry patches, body dryness, or simple barrier-support routines.
 
 - Best for: dry-feeling areas, nighttime recovery routines, simple moisturizer-first care
 - What to watch: it can feel heavy on oily zones, so use a smaller amount where needed
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you dislike rich cream texture, search [fragrance-free barrier repair moisturizer on Amazon](https://www.amazon.com/s?k=fragrance+free+barrier+repair+moisturizer+face&tag=northlanepick-20) and compare reviews for comfort, pilling, and how it layers under sunscreen.
 

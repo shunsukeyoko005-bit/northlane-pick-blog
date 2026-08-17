@@ -45,11 +45,11 @@ If you prefer a cleanser, choose a gentle, fragrance-free formula. [CeraVe Foami
 
 Moisturizer is the step that helps sensitive skin feel less tight and more resilient. Look for simple formulas with barrier-supporting ingredients and avoid heavily scented creams if fragrance tends to bother you.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified pick if you want a basic, fragrance-free cream for dry areas or a simple barrier-support routine.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified pick if you want a basic, fragrance-free cream for dry areas or a simple barrier-support routine.
 
 - Best for: dry patches, barrier support, simple routines
 - What to watch: use a smaller amount on oily areas if a rich cream feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ### Step 3: Apply sunscreen every morning
 

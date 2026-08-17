@@ -86,11 +86,11 @@ Toner should support the routine, not replace the products that do the main work
 
 ### Moisturizer
 
-Even if a toner feels hydrating, most skin still benefits from moisturizer afterward. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified simple moisturizer to consider for dry areas or barrier-support routines.
+Even if a toner feels hydrating, most skin still benefits from moisturizer afterward. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified simple moisturizer to consider for dry areas or barrier-support routines.
 
 - Best for: sealing in hydration, dry patches, simple routines
 - What to watch: rich texture may feel heavy on very oily areas
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ### Serum
 

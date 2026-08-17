@@ -99,7 +99,7 @@ If your routine feels stripped from too much cleansing, exfoliation, or active s
 - What to watch: crowded formulas with acids, retinoids, or heavy fragrance
 - How to use it: pause new actives while you test the support step
 
-For a basic comfort backup, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer reference already tracked by this site. It is not a serum, but it can help you decide whether your skin needs better moisturizer support before another treatment-style bottle.
+For a basic comfort backup, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer reference already tracked by this site. It is not a serum, but it can help you decide whether your skin needs better moisturizer support before another treatment-style bottle.
 
 ## What to look for on the label
 
@@ -235,7 +235,7 @@ If the answer is mostly yes, you have a reasonable candidate. If the product nee
 
 The best panthenol serum for sensitive-feeling skin is not the bottle with the loudest calming promise. It is the one that fits into a short routine, layers comfortably, and helps your skin feel less like a daily guessing game.
 
-Start with one clear lane: fragrance-free panthenol, hydrating panthenol, lightweight panthenol, or barrier-support panthenol. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) can be useful reference points while you compare.
+Start with one clear lane: fragrance-free panthenol, hydrating panthenol, lightweight panthenol, or barrier-support panthenol. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) can be useful reference points while you compare.
 
 Calmer-feeling skin usually starts with fewer moving parts. Let panthenol be one support step, not the beginning of another crowded shelf.
 

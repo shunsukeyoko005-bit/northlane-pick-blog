@@ -3,7 +3,7 @@
  * Pre-push gate for cloud automation. Exits 1 with a clear error if publish is incomplete.
  * Usage: node scripts/verify-publish.mjs <slug>
  */
-import { access, readFile } from 'node:fs/promises';
+import { access, readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 const slug = process.argv[2];
@@ -23,6 +23,17 @@ async function exists(path) {
   } catch {
     return false;
   }
+}
+
+function parseDeadAsins(yaml) {
+  const block = yaml.match(/^dead_asins:\r?\n((?:[ \t].*\r?\n)*)/m);
+  if (!block) return [];
+  const ids = [];
+  for (const line of block[1].split(/\r?\n/)) {
+    const m = line.match(/^\s+([A-Z0-9]{10}):/);
+    if (m) ids.push(m[1]);
+  }
+  return ids;
 }
 
 function parseFrontmatter(raw) {
@@ -67,6 +78,18 @@ if (!(await exists(progressPath))) {
   const progress = await readFile(progressPath, 'utf8');
   if (!progress.includes(`slug: ${slug}`)) {
     errors.push(`_progress.yaml published list missing slug: ${slug}`);
+  }
+  const deadAsins = parseDeadAsins(progress);
+  const blogDir = join(root, 'src', 'content', 'blog');
+  const files = await readdir(blogDir);
+  for (const file of files) {
+    if (!file.endsWith('.md')) continue;
+    const text = await readFile(join(blogDir, file), 'utf8');
+    for (const asin of deadAsins) {
+      if (text.includes(asin)) {
+        errors.push(`dead ASIN ${asin} found in src/content/blog/${file}`);
+      }
+    }
   }
 }
 

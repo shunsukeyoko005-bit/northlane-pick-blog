@@ -59,11 +59,11 @@ If foaming cleansers leave your skin uncomfortable, browse [gentle cream cleanse
 
 Moisturizer does not have to be a thick layer over the whole face every morning. In a fast routine, apply it where your skin feels dry, tight, flaky, or easily irritated. That might be cheeks only, around the mouth, or the whole face during colder months.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to consider when your routine needs a simple barrier-supporting cream.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to consider when your routine needs a simple barrier-supporting cream.
 
 - Best for: dry patches, compromised-feeling skin, and routines that need a dependable moisture step
 - What to watch: use a small amount on oily areas or reserve richer textures for night if they feel heavy under SPF
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 For oily or combination skin, search [lightweight gel moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+gel+moisturizer+for+face&tag=northlanepick-20) and compare recent reviews for how they layer under sunscreen.
 

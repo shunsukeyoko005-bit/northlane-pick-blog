@@ -150,7 +150,7 @@ Most lactobionic acid serums fit after cleansing and before moisturizer at night
 
 For a verified gentle cleanser reference, [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) can help you compare whether your cleanse step is quiet enough before adding an acid serum. A cleanser that leaves skin tight can make any active feel harsher than it needs to.
 
-If your skin is dry or sensitive-feeling, a familiar moisturizer matters too. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer reference on this site and can help you think about whether your routine needs more comfort before more exfoliation.
+If your skin is dry or sensitive-feeling, a familiar moisturizer matters too. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer reference on this site and can help you think about whether your routine needs more comfort before more exfoliation.
 
 ## How often should sensitive skin use it?
 

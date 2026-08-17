@@ -103,11 +103,11 @@ On recovery nights, skip:
 - New active serums.
 - Testing several new products at once.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer option for recovery nights, dry patches, and skin that feels tight after treatment steps.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer option for recovery nights, dry patches, and skin that feels tight after treatment steps.
 
 - Best for: dry, tight, or barrier-stressed skin that wants a cushioned cream
 - What to watch: use a smaller amount on oily zones if it feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If your skin prefers lighter textures, browse [lightweight barrier moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+barrier+moisturizer+face&tag=northlanepick-20) and compare fragrance-free lotions or gel-creams.
 

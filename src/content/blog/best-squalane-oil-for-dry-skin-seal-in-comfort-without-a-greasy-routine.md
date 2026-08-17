@@ -97,7 +97,7 @@ If pure oil feels intimidating, compare [moisturizers with squalane on Amazon](h
 - What to watch: fragrance, heavy texture, and ingredient lists that are too active
 - How to use it: use as your moisturizer step, then add sunscreen in the morning
 
-For a simple moisturizer reference, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is already verified in this site's tracker. It is not a squalane oil, but it can help you judge whether your skin first needs a stronger moisturizer before you add oil.
+For a simple moisturizer reference, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is already verified in this site's tracker. It is not a squalane oil, but it can help you judge whether your skin first needs a stronger moisturizer before you add oil.
 
 ## What to look for on the label
 
@@ -233,7 +233,7 @@ If the answer is mostly yes, you have a reasonable candidate. If the product nee
 
 The best squalane oil for dry skin is not the glossiest bottle or the richest promise. It is the one you can use in a tiny amount, layer comfortably, and understand within your current routine.
 
-Start with one clear lane: plain squalane oil, fragrance-free squalane, lightweight daytime squalane, or a squalane-rich moisturizer. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) can be useful reference points while you compare.
+Start with one clear lane: plain squalane oil, fragrance-free squalane, lightweight daytime squalane, or a squalane-rich moisturizer. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) can be useful reference points while you compare.
 
 Dry skin routines do not need to become heavier every time they need more comfort. Let squalane be a small sealing step, not the start of another crowded shelf.
 

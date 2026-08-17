@@ -82,11 +82,11 @@ If your skin leans dry or reactive, browse [gentle hydrating facial cleansers on
 
 Moisturizer is not only for dry skin. It helps make the rest of the routine easier to tolerate, especially if you use sunscreen, treatments, makeup, or frequent cleansing.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option when skin needs a simple comfort layer.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option when skin needs a simple comfort layer.
 
 - Best for: dry areas, barrier-supportive nighttime routines, neck and hands
 - What to watch: use a smaller amount on oily zones if full-face use feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 In your 20s, a light moisturizer may be enough. In your 30s, you may prefer a richer night layer or targeted use around cheeks, mouth, neck, and hands.
 

@@ -76,11 +76,11 @@ If your main concern is dry, crepey-feeling skin, browse [hyaluronic acid serums
 
 Moisturizer is often the step mature skin notices first when it is missing. It helps soften tightness, supports barrier comfort, and makes sunscreen easier to wear evenly.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer option for dry areas, nighttime routines, and skin that wants a more cushioned finish.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer option for dry areas, nighttime routines, and skin that wants a more cushioned finish.
 
 - Best for: dry cheeks, neck, hands, and barrier-supportive routines
 - What to watch: use a smaller amount in oily zones if full-face use feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 Apply moisturizer while skin still feels slightly damp if that works for you. Bring it down the neck and onto the backs of the hands, two areas that are easy to forget when routines focus only on the face.
 

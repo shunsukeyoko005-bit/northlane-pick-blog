@@ -67,11 +67,11 @@ If you are using a vitamin C serum and a niacinamide serum together for the firs
 
 Moisturizer helps reduce dryness and can make sunscreen sit more evenly, but it is not mandatory for every skin type in every season. If your sunscreen is creamy and your skin is oily, you may prefer to skip a separate moisturizer in the morning.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified option for dry areas or barrier-support routines.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified option for dry areas or barrier-support routines.
 
 - Best for: dry patches, simple fragrance-free routines, nighttime use if too rich for morning
 - What to watch: use a smaller amount before sunscreen if rich creams feel heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 For oily or combination skin, browse [lightweight gel moisturizers for face](https://www.amazon.com/s?k=lightweight+gel+moisturizer+for+face&tag=northlanepick-20) and look for formulas that dry down cleanly before SPF.
 

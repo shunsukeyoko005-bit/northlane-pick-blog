@@ -152,11 +152,11 @@ A simple PM order can be:
 2. Optional treatment serum
 3. Moisturizer
 
-If you want a basic moisturizer lane, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified option for dry areas or simple barrier-support routines.
+If you want a basic moisturizer lane, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified option for dry areas or simple barrier-support routines.
 
 - Best for: dry patches, simple PM moisturizing, body or face dryness
 - What to watch: it may feel rich on oily areas, so use a smaller amount where needed
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If a rich cream feels too heavy, browse [lightweight gel moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+gel+moisturizer+for+face&tag=northlanepick-20) and look for reviews that mention comfortable overnight use.
 

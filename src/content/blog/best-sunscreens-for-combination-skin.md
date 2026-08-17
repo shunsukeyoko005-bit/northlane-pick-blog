@@ -120,9 +120,9 @@ Helpful changes include:
 
 - Shop verified cleanser: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-For dry patches, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer, but it may be better as a night cream or small-area morning layer if full-face use feels heavy.
+For dry patches, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer, but it may be better as a night cream or small-area morning layer if full-face use feels heavy.
 
-- Shop verified moisturizer: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop verified moisturizer: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Makeup tips for combination skin and SPF
 

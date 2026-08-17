@@ -55,11 +55,11 @@ If your skin is dry or sensitive, you may want to skip strong actives and browse
 
 Moisturizer is the step that helps your skin feel comfortable overnight. It does not need to be fancy. At night, many people can use a slightly richer cream than they would wear under daytime sunscreen.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified option if you want a basic, fragrance-free cream for face or body dryness.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified option if you want a basic, fragrance-free cream for face or body dryness.
 
 - Best for: dry areas, barrier support routines, simple PM moisturizing
 - What to watch: use less on oily areas if a rich cream feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If creams always feel too heavy, browse [lightweight gel moisturizers on Amazon](https://www.amazon.com/s?k=lightweight+gel+moisturizer+for+face&tag=northlanepick-20). Combination skin often does well with a lighter moisturizer on the T-zone and a richer cream only where it gets dry.
 

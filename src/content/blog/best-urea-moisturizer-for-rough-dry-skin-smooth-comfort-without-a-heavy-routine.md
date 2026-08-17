@@ -81,7 +81,7 @@ If scent often makes your skin feel bothered, compare [fragrance free urea cream
 - What to watch: "unscented" wording that may still include masking fragrance
 - How to use it: introduce it without adding a new exfoliant the same week
 
-A verified comfort reference already tracked by this site is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20). It is not a urea moisturizer, but it can help you compare whether your skin first needs a richer, familiar sealing step before chasing a more specialized formula.
+A verified comfort reference already tracked by this site is [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20). It is not a urea moisturizer, but it can help you compare whether your skin first needs a richer, familiar sealing step before chasing a more specialized formula.
 
 ### 3. Urea body lotion for rough arms and legs
 
@@ -260,7 +260,7 @@ If the answers point to a simple, repeatable test, you have a reasonable candida
 
 The best urea moisturizer for rough dry skin is not the strongest cream you can find. It is the one that fits the right area, softens the feel of rough dryness, and does not make you rebuild your whole routine.
 
-Start with one lane: low-strength face moisturizer, fragrance-free urea cream, body lotion, hand cream, or foot cream. Keep the rest of the routine boring while you test. If your basics are shaky, a verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a reliable moisturizer reference like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) can help you reset before comparing specialized formulas.
+Start with one lane: low-strength face moisturizer, fragrance-free urea cream, body lotion, hand cream, or foot cream. Keep the rest of the routine boring while you test. If your basics are shaky, a verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a reliable moisturizer reference like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) can help you reset before comparing specialized formulas.
 
 Rough dry skin usually does not need a louder shelf. It needs a moisturizer that matches the job and a routine simple enough to repeat tomorrow.
 

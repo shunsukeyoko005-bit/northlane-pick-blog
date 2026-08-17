@@ -155,11 +155,11 @@ At the end of the day, skin may have sunscreen, sweat, lake water, sand, dock du
 - What to watch: use lukewarm water and avoid rough towels on sun-exposed skin
 - Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-If cheeks, neck, shoulders, or hands feel dry after cleansing, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to consider for a simple comfort layer.
+If cheeks, neck, shoulders, or hands feel dry after cleansing, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to consider for a simple comfort layer.
 
 - Best for: basic moisture after washing off sunscreen and outdoor residue
 - What to watch: use less on oily areas and more where skin feels tight
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Common lake-day sunscreen mistakes
 

@@ -122,11 +122,11 @@ If foaming textures leave your skin uncomfortable, browse [gentle cream cleanser
 
 Moisturizer is the step that makes damp-skin timing useful. Without it, shower water evaporates and tightness can show up quickly. With it, the routine has a better chance of keeping skin comfortable after the bathroom humidity disappears.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple face or body cream after showering.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple face or body cream after showering.
 
 - Best for: dry patches, hands, elbows, legs, and face areas that tolerate richer cream
 - What to watch: use a smaller amount on oily areas or under sunscreen if heavy creams feel too much
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 For lighter body textures, browse [fragrance free body lotion on Amazon](https://www.amazon.com/s?k=fragrance+free+body+lotion&tag=northlanepick-20) and compare pump packaging, residue, and whether reviewers mention daily use after showers.
 

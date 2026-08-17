@@ -161,11 +161,11 @@ At the end of the night, sunscreen may be layered with makeup, sweat, hairspray,
 - What to watch: use lukewarm water and avoid rough towels on sun-exposed skin
 - Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-If skin feels tight after cleansing, keep the rest of the night simple. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to consider when cheeks, neck, or shoulders need a basic comfort layer.
+If skin feels tight after cleansing, keep the rest of the night simple. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to consider when cheeks, neck, or shoulders need a basic comfort layer.
 
 - Best for: post-event moisture after cleansing
 - What to watch: use less on oily areas and more where skin feels dry
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Common summer wedding sunscreen mistakes
 

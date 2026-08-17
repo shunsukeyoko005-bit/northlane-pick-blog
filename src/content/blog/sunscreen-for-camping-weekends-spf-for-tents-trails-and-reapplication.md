@@ -155,11 +155,11 @@ At the end of the day, sunscreen can mix with sweat, dust, smoke, bug spray, and
 - What to watch: use lukewarm water and avoid scrubbing sun-exposed areas
 - Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-If your skin feels tight after cleansing, keep the rest of the night simple. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option to consider when skin needs a basic comfort layer after a long outdoor day.
+If your skin feels tight after cleansing, keep the rest of the night simple. [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option to consider when skin needs a basic comfort layer after a long outdoor day.
 
 - Best for: simple post-cleanse moisture on face, neck, or dry patches
 - What to watch: use a lighter amount on oily areas and more where skin feels tight
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Build a small campsite SPF kit
 

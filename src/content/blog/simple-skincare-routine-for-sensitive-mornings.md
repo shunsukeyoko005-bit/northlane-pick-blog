@@ -61,11 +61,11 @@ If foaming textures are too much for your skin, browse [gentle cream cleansers o
 
 Moisturizer is the step that makes the rest of the morning easier. Sensitive-feeling skin often becomes more reactive when it is left bare after water, cleansing, or a warm shower. Apply moisturizer while skin is slightly damp if that feels comfortable.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple barrier-supporting cream.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option for routines that need a simple barrier-supporting cream.
 
 - Best for: dry patches, tight cheeks, and mornings when skin feels easily bothered
 - What to watch: use a small amount on oilier areas if rich creams feel heavy under SPF
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 You do not have to apply the same amount everywhere. Use more on cheeks, around the mouth, or flaky areas, and less on the T-zone if that area gets oily quickly.
 

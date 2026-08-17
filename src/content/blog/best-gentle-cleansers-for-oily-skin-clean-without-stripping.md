@@ -230,11 +230,11 @@ If your face feels tight after cleansing, try:
 - A light moisturizer after rinsing
 - Fewer active treatments on the same day
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer reference point if you need barrier support, though oily skin may prefer using richer creams only on dry areas or at night.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer reference point if you need barrier support, though oily skin may prefer using richer creams only on dry areas or at night.
 
 - Best for: dry patches, barrier support, night use where needed
 - What to watch: heaviness on oily zones
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Quick decision guide
 

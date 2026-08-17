@@ -136,11 +136,11 @@ Use this order:
 - What to watch: switch to a creamier cleanser if your skin feels stripped
 - Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified rich moisturizer option for nights when skin feels dry, tight, or barrier-stressed after active steps.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified rich moisturizer option for nights when skin feels dry, tight, or barrier-stressed after active steps.
 
 - Best for: dry patches, recovery nights, and simple barrier support
 - What to watch: use a smaller amount on oily areas if it feels heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## What not to combine
 

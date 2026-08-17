@@ -97,7 +97,7 @@ If your routine feels stripped from over-cleansing, active stacking, or too many
 - What to watch: products that sneak in acids, retinoids, or heavy fragrance
 - How to use it: keep the rest of the routine boring during the first test
 
-For a basic moisturizer backup, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified reference already tracked by this site. It is not a serum, but it can help you judge whether your dry skin needs stronger moisturizer support before you add another treatment-style bottle.
+For a basic moisturizer backup, [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified reference already tracked by this site. It is not a serum, but it can help you judge whether your dry skin needs stronger moisturizer support before you add another treatment-style bottle.
 
 ## What to look for on the label
 
@@ -233,7 +233,7 @@ If the answer is mostly yes, you have a reasonable candidate. If the product nee
 
 The best ceramide serum for dry skin is not the bottle with the loudest barrier promise. It is the one that fits into a short routine, layers comfortably, and helps dry-feeling skin feel less like a daily guessing game.
 
-Start with one clear lane: fragrance-free ceramide, hydrating ceramide, lightweight daytime ceramide, or broader barrier-support serum. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) can be useful reference points while you compare.
+Start with one clear lane: fragrance-free ceramide, hydrating ceramide, lightweight daytime ceramide, or broader barrier-support serum. If your basics are shaky, keep a gentle cleanser and moisturizer steady first. A verified cleanser like [Cetaphil Gentle Skin Cleanser](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20) and a verified moisturizer like [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) can be useful reference points while you compare.
 
 Dry skin routines do not need to become heavier every time they need more support. Let a ceramide serum be one practical middle step, not the beginning of another crowded shelf.
 

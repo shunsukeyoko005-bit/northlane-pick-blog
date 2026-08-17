@@ -23,7 +23,7 @@ If your serums feel like they "do nothing," the problem might not be the product
 
 1. **Cleanser** — Start with a gentle cleanser to remove overnight oil. A simple foaming cleanser like the [CeraVe Foaming Facial Cleanser](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20) works for normal-to-oily skin.
 2. **Serum (optional)** — A lightweight active such as [The Ordinary Niacinamide 10% + Zinc 1%](https://www.amazon.com/dp/B01LXAZL30?tag=northlanepick-20) goes on bare skin so it absorbs first.
-3. **Moisturizer** — Lock in hydration with a cream like the [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20).
+3. **Moisturizer** — Lock in hydration with a cream like the [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20).
 4. **SPF (always last)** — Sunscreen is the final step every single morning. A lightweight fluid like the [La Roche-Posay Anthelios Ultra-Light Fluid SPF 60](https://www.amazon.com/dp/B002CML1XE?tag=northlanepick-20) sits well under makeup.
 
 > **Quick tip:** SPF always goes on *after* moisturizer, never before. If you wear makeup, that goes on top of sunscreen.
@@ -48,7 +48,7 @@ If you're building a routine from scratch, four products cover it: a cleanser, o
 
 - Cleanser: [CeraVe Foaming Facial Cleanser](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 - Serum: [The Ordinary Niacinamide 10% + Zinc 1%](https://www.amazon.com/dp/B01LXAZL30?tag=northlanepick-20)
-- Moisturizer: [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Moisturizer: [CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 - SPF: [La Roche-Posay Anthelios Fluid SPF 60](https://www.amazon.com/dp/B002CML1XE?tag=northlanepick-20)
 
 *Check current prices and reviews on Amazon — they update often.*

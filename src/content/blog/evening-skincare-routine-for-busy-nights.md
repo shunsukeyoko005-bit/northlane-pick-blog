@@ -108,11 +108,11 @@ If you already use a retinoid or exfoliating acid, do not add a new serum on the
 
 Moisturizer is the step that makes the next morning easier. After cleansing, skin can lose comfort quickly if you leave it bare, especially in air conditioning, dry weather, or after a long shower.
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option for people who want a simple barrier-supporting cream for dry areas or night routines.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option for people who want a simple barrier-supporting cream for dry areas or night routines.
 
 - Best for: dry patches, tight-feeling skin, and routines that need a dependable final step
 - What to watch: use a smaller amount on oily areas if rich creams feel heavy
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 Apply moisturizer while skin is still slightly damp if that feels comfortable. You do not need a thick layer everywhere. Use more on cheeks, around the mouth, or other dry zones, and less on areas that get oily quickly.
 

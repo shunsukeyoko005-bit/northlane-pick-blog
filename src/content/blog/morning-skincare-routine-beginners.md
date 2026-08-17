@@ -43,7 +43,7 @@ Pick **one** active to start — more is not better when you're new. Niacinamide
 
 Even oily skin needs moisture. A simple cream locks in hydration and supports your skin barrier so everything else works better.
 
-- **CeraVe Moisturizing Cream** — rich but not greasy, with ceramides. [Check it on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- **CeraVe Moisturizing Cream** — rich but not greasy, with ceramides. [Check it on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Step 4 — SPF (never skip this)
 

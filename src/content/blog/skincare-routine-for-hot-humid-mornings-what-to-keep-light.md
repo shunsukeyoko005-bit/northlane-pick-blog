@@ -88,11 +88,11 @@ Use this decision table:
 | Makeup or sunscreen pills | Let layers settle and reduce moisturizer amount |
 | Skin feels dry by midday | Use a thin moisturizer before sunscreen instead of skipping it |
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option, but it may be richer than some humid morning routines need. If you already own it, use a small amount on dry areas instead of treating it like an all-over heavy layer every summer morning.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option, but it may be richer than some humid morning routines need. If you already own it, use a small amount on dry areas instead of treating it like an all-over heavy layer every summer morning.
 
 - Best for: dry patches, barrier comfort, and routines that need more cushion
 - What to watch: use less in humid weather and avoid layering too heavily under sunscreen
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 ## Step 4: Make sunscreen the non-negotiable final skincare layer
 
