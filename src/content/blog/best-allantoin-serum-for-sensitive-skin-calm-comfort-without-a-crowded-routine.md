@@ -110,9 +110,9 @@ If cleanser is part of the problem, a verified gentle option is [Cetaphil Gentle
 - Shop gentle cleanser: [Check current price on Amazon](https://www.amazon.com/dp/B07GC74LL5?tag=northlanepick-20)
 - Shop foaming cleanser: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9BRC?tag=northlanepick-20)
 
-[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20) is a verified moisturizer option if your face needs a familiar cream over a serum.
+[CeraVe Moisturizing Cream](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20) is a verified moisturizer option if your face needs a familiar cream over a serum.
 
-- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B00TTD9CR8?tag=northlanepick-20)
+- Shop: [Check current price on Amazon](https://www.amazon.com/dp/B01HVLKZ9Q?tag=northlanepick-20)
 
 If you already use a hydrating serum, [The Ordinary Hyaluronic Acid 2% + B5](https://www.amazon.com/dp/B01MYEZPC8?tag=northlanepick-20) is a verified option some routines use. Do not add it the same week as an allantoin serum if you want a clean test.
 
