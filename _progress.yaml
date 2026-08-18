@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-17
+  updated: 2026-08-18
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -339,6 +339,15 @@ published:
   - n: 100
     slug: best-allantoin-serum-for-sensitive-skin-calm-comfort-without-a-crowded-routine
     date: 2026-08-17
+  - n: 101
+    slug: best-hybrid-sunscreen-for-combination-skin-mineral-comfort-without-the-heavy-cast
+    date: 2026-08-18
+  - n: 102
+    slug: best-tranexamic-acid-serum-for-dark-spots-even-tone-without-overloading-actives
+    date: 2026-08-18
+  - n: 103
+    slug: best-sunscreen-mist-for-reapplication-spray-spf-without-starting-over
+    date: 2026-08-18
 
 in_progress: []
 
