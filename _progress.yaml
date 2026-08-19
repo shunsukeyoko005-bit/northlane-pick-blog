@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-18
+  updated: 2026-08-19
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -348,6 +348,9 @@ published:
   - n: 103
     slug: best-sunscreen-mist-for-reapplication-spray-spf-without-starting-over
     date: 2026-08-18
+  - n: 104
+    slug: best-sunscreen-after-retinol-daily-spf-without-skipping-the-morning
+    date: 2026-08-19
 
 in_progress: []
 
