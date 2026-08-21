@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-20
+  updated: 2026-08-21
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -366,6 +366,9 @@ published:
   - n: 109
     slug: best-salicylic-acid-cleanser-for-oily-skin-clearer-feel-without-stripping
     date: 2026-08-20
+  - n: 110
+    slug: best-sunscreen-for-hairline-and-scalp-daily-spf-without-greasy-hair
+    date: 2026-08-21
 
 in_progress: []
 
