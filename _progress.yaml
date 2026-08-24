@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-23
+  updated: 2026-08-24
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -393,6 +393,9 @@ published:
   - n: 118
     slug: best-skincare-routine-for-new-moms-gentle-steps-without-overthinking-labels
     date: 2026-08-23
+  - n: 119
+    slug: best-sunscreen-for-the-chest-daily-spf-without-a-separate-body-routine
+    date: 2026-08-24
 
 in_progress: []
 
