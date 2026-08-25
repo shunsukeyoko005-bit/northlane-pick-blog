@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-24
+  updated: 2026-08-25
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -399,6 +399,9 @@ published:
   - n: 120
     slug: best-skincare-routine-during-pregnancy-gentle-steps-without-guessing-labels
     date: 2026-08-24
+  - n: 121
+    slug: best-sunscreen-for-freckle-prone-skin-daily-spf-without-chasing-every-spot
+    date: 2026-08-25
 
 in_progress: []
 
