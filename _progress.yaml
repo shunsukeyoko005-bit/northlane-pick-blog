@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-25
+  updated: 2026-08-26
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -408,6 +408,9 @@ published:
   - n: 123
     slug: best-micellar-water-for-sensitive-skin-clean-without-rubbing-your-face-raw
     date: 2026-08-25
+  - n: 124
+    slug: best-sunscreen-for-humid-weather-lightweight-spf-without-the-sweaty-film
+    date: 2026-08-26
 
 in_progress: []
 
