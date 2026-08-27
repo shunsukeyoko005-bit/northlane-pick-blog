@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-26
+  updated: 2026-08-27
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -417,6 +417,9 @@ published:
   - n: 126
     slug: best-oil-free-moisturizer-for-acne-prone-skin-hydrate-without-the-heavy-feel
     date: 2026-08-26
+  - n: 127
+    slug: best-sunscreen-for-indoor-days-daily-spf-without-waiting-for-sunshine
+    date: 2026-08-27
 
 in_progress: []
 
