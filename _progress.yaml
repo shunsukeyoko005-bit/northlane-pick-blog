@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-08-29
+  updated: 2026-08-30
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -444,6 +444,9 @@ published:
   - n: 135
     slug: best-sunscreen-for-body-acne-prone-skin-spf-without-the-greasy-film
     date: 2026-08-29
+  - n: 136
+    slug: best-sunscreen-after-shaving-daily-spf-without-the-sting
+    date: 2026-08-30
 
 in_progress: []
 
