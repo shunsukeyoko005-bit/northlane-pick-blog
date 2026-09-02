@@ -1,0 +1,26 @@
+---
+description: Ban blank all-white unbranded bottle still-life images (blog + Pinterest)
+alwaysApply: true
+---
+
+# No blank white bottle images (North Lane Pick)
+
+**Owner rule 2026-09-02.** Applies to **blog covers** and **Pinterest pin images**.
+
+## Forbidden
+- All-white / monochrome plain bottles, tubes, or jars with **no design, color, or label character**
+- Sterile “generic white tube + white jar on white vanity” AI still-lifes
+- Prompt language that forces: `plain white unbranded tube`, `matte white bottles only`, `no color on packaging`
+
+## Required instead
+- Colored glass or packaging (amber, tinted, frosted with tone, pump with visible color)
+- Visual depth: material contrast; product surfaces that are not blank pure white
+
+## Backgrounds are fine
+Clean vanity / bathroom / marble counters like earlier posts are OK.
+Do **not** reject an image only because the backdrop is bright or minimal — reject only blank white *products*.
+
+## Scope
+- New blog covers from this date
+- New Pinterest pins from this date
+- Do not mass-rewrite old posts unless the owner asks

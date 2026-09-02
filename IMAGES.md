@@ -1,7 +1,10 @@
 # Blog images — required on every publish
 
 > **Owner rule (2026-07-02):** Every article must ship with a cover image. No image-less publishes.  
-> **Image quality rule (2026-09-02):** Unlabeled AI “white bottle flat-lays” look fake. Prefer real/lifestyle photos.
+> **Owner ban (2026-09-02 · blog + Pinterest):** **真っ白・デザインなしのボトル／チューブは禁止。**  
+> Bad = plain all-white unbranded tube/jar with zero design or color.  
+> Good = amber / tinted glass, color on packaging, material depth.  
+> **Backgrounds:** previous clean vanity / bathroom looks are fine. Color on the *product* is the requirement, not a totally different set.
 
 ## Required (Automation · every RUN)
 
@@ -17,9 +20,16 @@ Every new article **must** have:
 |----------|--------|-------|
 | **1. Own photo** | Photograph products you own, bathroom vanity, SPF-in-bag, outdoor scene | Best trust signal · no Amazon copyright issue |
 | **2. Licensed stock** | Unsplash / paid stock with commercial license | Lifestyle scenes OK · avoid obvious stock-model clichés when possible |
-| **3. Careful AI lifestyle** | Real-looking skin/hands/outdoor SPF scenes | **No** blank white tubes with zero labels · **no** α/edit UI artifacts |
+| **3. Careful AI lifestyle** | Colored packaging / amber glass / outdoor or warm vanity scenes | Must have **color + material depth** · **no** α/edit UI artifacts |
+| **❌ Blank white bottles** | All-white unbranded tube/jar still-life with zero design | Owner ban 2026-09-02 · same rule on Pinterest |
 | **❌ Amazon listing scrape** | Download Amazon product photos → upload to our server | **Associates Operating Agreement risk** — do not do this |
 | **❌ SVG-only** | `npm run covers` alone | `verify-publish` rejects |
+
+### Prompt / composition checklist (AI covers)
+
+**Must include at least one:** amber or tinted glass · colored label band · frosted bottle with visible hue · pump/tube that is not pure white · outdoor/lifestyle prop with color.
+
+**Must never:** `plain white unbranded bottles only` · `matte white tube and white jar` · `no logos, no color, all white packaging` as the whole frame.
 
 ### Amazon product images — what is / isn’t allowed
 
@@ -62,3 +72,4 @@ npm run verify-publish -- <slug>
 - SVG-only covers (verify-publish will FAIL)
 - Hotlinking external images as the stored cover
 - Downloading Amazon product listing images into the repo
+- **Blank all-white design-less bottle / tube still-lifes** (blog covers and Pinterest pins)

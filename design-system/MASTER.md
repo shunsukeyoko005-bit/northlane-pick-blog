@@ -41,9 +41,14 @@ Vibrant editorial · coral/rose CTA · teal secondary · sunny accent · Fraunce
 - Emoji as icons
 
 ## Cover / product images
-See `IMAGES.md`. **Do not** download Amazon listing photos into the repo (Associates risk). Prefer own photos, licensed stock, or PA-API embeds after qualification.
+See `IMAGES.md`.
+
+**Owner ban 2026-09-02 (blog + Pinterest):** no blank all-white design-less bottle/tube still-lifes. Prefer amber/tinted glass, colored packaging, warm light, lifestyle depth.
+
+**Do not** download Amazon listing photos into the repo (Associates risk). Prefer own photos, licensed stock, or PA-API embeds after qualification.
 
 ## Phase checklist
 - [x] Sticky header · colorful card grid · article hero · affiliate CTAs
 - [x] Vivid coral/teal redesign (2026-09-02)
-- [ ] Cover pipeline: stop unlabeled AI bottles; migrate to real/lifestyle photos
+- [x] Ban blank white bottle covers/pins in docs + cursor rule (2026-09-02)
+- [ ] Optional: replace worst existing white-bottle covers when owner asks

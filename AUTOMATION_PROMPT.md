@@ -29,7 +29,7 @@ Stay inside this repo only. Do not look for files outside the repository.
    - If remote main advanced: git fetch origin main → git rebase origin/main → retry `git push origin HEAD:main`.
    - Retry once on any other failure. Report FAILED if push still fails.
 
-FORBIDDEN: pull request · `git push origin main` · SVG-only cover · stopping before push · 2+ articles per run · scene-SPF titles · dead ASINs in `_progress.yaml` `dead_asins` (never `B00TTD9CR8`; CeraVe cream is `B01HVLKZ9Q`).
+FORBIDDEN: pull request · `git push origin main` · SVG-only cover · blank all-white design-less bottle covers · stopping before push · 2+ articles per run · scene-SPF titles · dead ASINs in `_progress.yaml` `dead_asins` (never `B00TTD9CR8`; CeraVe cream is `B01HVLKZ9Q`).
 
 Slot: <SLOT LINE BELOW>
 ```
