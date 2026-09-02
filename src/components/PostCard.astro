@@ -32,7 +32,9 @@ const formattedDate = created
   </div>
   <div class="post-card__body">
     <div class="post-card__top">
-      <span class="cluster-pill">{clusterLabel}</span>
+      <span class:list={['cluster-pill', cluster === 'skincare-routine' && 'cluster-pill--routine']}>
+        {clusterLabel}
+      </span>
       {formattedDate && <time class="post-card__date" datetime={created}>{formattedDate}</time>}
     </div>
     <h2 class="post-card__title">{title}</h2>

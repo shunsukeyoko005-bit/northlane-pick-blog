@@ -95,7 +95,16 @@ const formattedDate = post.data.created
     </div>
     <div class="article-hero__content">
       <div class="article-hero__meta">
-        {clusterLabel && <span class="cluster-pill">{clusterLabel}</span>}
+        {clusterLabel && (
+          <span
+            class:list={[
+              'cluster-pill',
+              post.data.cluster === 'skincare-routine' && 'cluster-pill--routine',
+            ]}
+          >
+            {clusterLabel}
+          </span>
+        )}
         {
           formattedDate && (
             <time class="post-card__date" datetime={post.data.created}>

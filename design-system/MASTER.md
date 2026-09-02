@@ -1,38 +1,49 @@
 # North Lane Pick — Design System
 
-> ui-ux-pro-max · Editorial beauty affiliate blog
+> ui-ux-pro-max · Fresh summer editorial beauty affiliate blog  
+> Updated 2026-09-02 — vivid coral + teal (left cream/terracotta behind)
 
 ## Pattern
-Editorial Grid / Magazine — card index with covers, readable article column, soft warmth.
+Editorial Grid / Magazine — colorful hero, gradient-border cards, readable article column.
+
+## Style keywords
+Vibrant editorial · coral/rose CTA · teal secondary · sunny accent · Fraunces display
 
 ## Colors
 | Token | Hex | Use |
 |-------|-----|-----|
-| `--bg` | `#FFFDF9` | Page background |
-| `--surface` | `#F6EFE7` | Hero bands, disclosure |
+| `--bg` | `#FFF7F2` | Warm peach page wash |
+| `--surface` | `#E8F8F6` | Cool teal surface |
+| `--surface-warm` | `#FFF0E8` | Warm surface |
 | `--card` | `#FFFFFF` | Post cards |
-| `--ink` | `#1E293B` | Headings, body |
+| `--ink` | `#0F172A` | Headings, body |
 | `--muted` | `#475569` | Meta, excerpts |
-| `--accent` | `#C98B7E` | Links, pills, borders |
-| `--accent-dark` | `#A66B5F` | Hover |
-| `--line` | `#E8DFD4` | Dividers |
+| `--accent` | `#E11D48` | Primary CTA / SPF pills |
+| `--accent-2` | `#0D9488` | Teal / routine pills |
+| `--sun` | `#F59E0B` | Sunny accent in gradients |
+| `--line` | `#FCD5C4` | Soft coral dividers |
 
 ## Typography
-- **Display / brand:** Playfair Display
-- **UI / body:** Inter
+- **Display / brand:** Fraunces
+- **UI / body:** Source Sans 3
+- ❌ Avoid Inter / default system-only stacks as the hero type
 
-## Phase 1 ✅
-- Sticky header · card grid · article hero · affiliate disclosure
+## Effects
+- Fixed multi-radial page background (coral + teal + sun)
+- Hero mesh gradient + soft orbs
+- Cards: gradient border, lift on hover (no layout-shift scale of the card box itself beyond 3px translate)
+- Amazon CTA: coral→rose gradient pills
 
-## Phase 2 ✅
-- **Cover images:** `public/images/covers/<slug>.svg` (run `node scripts/generate-covers.mjs`)
-- **OG tags:** `og:image` from cover on article pages
-- **Amazon CTAs:** pill-style buttons on `/dp/` and search links in article body
+## Anti-patterns (do not revert to)
+- Cream `#F4F1EA` + terracotta accent + Playfair (old “AI beauty blog” look)
+- Purple-on-white / purple-to-indigo themes
+- Flat single-color beige backgrounds
+- Emoji as icons
 
-## Phase 3（進行中 · オーナー指示 2026-07-02）
+## Cover / product images
+See `IMAGES.md`. **Do not** download Amazon listing photos into the repo (Associates risk). Prefer own photos, licensed stock, or PA-API embeds after qualification.
 
-- **毎記事カバー画像必須** — SVG 自動生成をデフォルト · Pinterest 実写真があれば上書き
-- 手順: `site/IMAGES.md` · Automation プロンプトに `npm run covers` 明記済み
-
-## Anti-patterns
-- No emoji icons · no layout-shift hover · muted text min `#475569`
+## Phase checklist
+- [x] Sticky header · colorful card grid · article hero · affiliate CTAs
+- [x] Vivid coral/teal redesign (2026-09-02)
+- [ ] Cover pipeline: stop unlabeled AI bottles; migrate to real/lifestyle photos

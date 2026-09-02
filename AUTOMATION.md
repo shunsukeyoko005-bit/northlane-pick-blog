@@ -76,7 +76,7 @@ SEO direction (secretary, 2026-07-19, still active):
    - **Voice (required, new articles only — 2026-07-22~):** Apply busy-parent voice per `VOICE.md`.
    - **Intro (required):** Diagnosis-style opening per `COPY-INTRO-DIAGNOSIS.md` — trap → cost of unchanged → bridge (3–5 short paragraphs under H1, **no affiliate links in intro**), written in the voice above.
 4. **Cover image (required — see `IMAGES.md`):**
-   - Create a **real photo** `public/images/covers/<slug>.jpg` (1200×630, beauty/skincare, no text overlay).
+   - Create a **cover photo** `public/images/covers/<slug>.jpg` (1200×630, beauty/skincare, no text overlay). Prefer own photo or licensed lifestyle stock. Avoid blank unlabeled AI bottles. **Do not** download Amazon listing images into the repo (Associates risk) — see `IMAGES.md`.
    - Add to frontmatter: `cover_image: "/images/covers/<slug>.jpg"`
    - Run `npm run covers` for SVG fallback (optional).
    - **SVG-only covers are rejected** by `npm run verify-publish`.
