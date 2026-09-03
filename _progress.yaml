@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-02
+  updated: 2026-09-03
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -480,6 +480,9 @@ published:
   - n: 147
     slug: best-korean-sunscreen-for-daily-wear-lightweight-spf-without-a-heavy-finish
     date: 2026-09-02
+  - n: 148
+    slug: best-sunscreen-for-beginners-daily-spf-without-overthinking-the-bottle
+    date: 2026-09-03
 
 in_progress: []
 
