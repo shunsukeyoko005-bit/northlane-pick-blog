@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-04
+  updated: 2026-09-05
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -498,6 +498,9 @@ published:
   - n: 153
     slug: best-sunscreen-for-redness-prone-cheeks-daily-spf-without-the-hot-tight-feel
     date: 2026-09-04
+  - n: 154
+    slug: best-sunscreen-for-the-jawline-daily-spf-without-the-missed-stripe
+    date: 2026-09-05
 
 in_progress: []
 
