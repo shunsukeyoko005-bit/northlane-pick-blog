@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-07
+  updated: 2026-09-08
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -525,6 +525,9 @@ published:
   - n: 162
     slug: best-sunscreen-after-exfoliating-daily-spf-without-the-sting
     date: 2026-09-07
+  - n: 163
+    slug: best-sunscreen-for-the-chin-daily-spf-without-the-missed-patch
+    date: 2026-09-08
 
 in_progress: []
 
