@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-08
+  updated: 2026-09-09
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -534,6 +534,9 @@ published:
   - n: 165
     slug: best-face-serum-for-dehydrated-skin-comfort-without-a-sticky-routine
     date: 2026-09-08
+  - n: 166
+    slug: best-sunscreen-serum-for-daily-wear-lightweight-spf-without-a-heavy-cream-step
+    date: 2026-09-09
 
 in_progress: []
 
