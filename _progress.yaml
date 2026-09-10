@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-09
+  updated: 2026-09-10
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -543,6 +543,9 @@ published:
   - n: 168
     slug: best-sunscreen-for-oily-t-zone-daily-spf-without-the-noon-shine
     date: 2026-09-09
+  - n: 169
+    slug: best-drugstore-sunscreen-for-daily-wear-reliable-spf-without-hunting-a-cult-bottle
+    date: 2026-09-10
 
 in_progress: []
 
