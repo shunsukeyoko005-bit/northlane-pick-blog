@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-11
+  updated: 2026-09-12
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -561,6 +561,9 @@ published:
   - n: 174
     slug: best-sunscreen-for-dry-patches-daily-spf-without-flaking-under-makeup
     date: 2026-09-11
+  - n: 175
+    slug: best-sunscreen-for-the-upper-lip-daily-spf-without-the-missed-burn-line
+    date: 2026-09-12
 
 in_progress: []
 
