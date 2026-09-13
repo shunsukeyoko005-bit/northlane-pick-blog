@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-12
+  updated: 2026-09-13
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -570,6 +570,9 @@ published:
   - n: 177
     slug: best-hand-soap-for-dry-hands-clean-without-the-sink-side-tightness
     date: 2026-09-12
+  - n: 178
+    slug: best-sunscreen-for-the-shoulders-daily-spf-without-the-uneven-burn-line
+    date: 2026-09-13
 
 in_progress: []
 
