@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-13
+  updated: 2026-09-14
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -579,6 +579,9 @@ published:
   - n: 180
     slug: best-sunscreen-for-tattoos-daily-spf-without-the-fading-panic
     date: 2026-09-13
+  - n: 181
+    slug: best-sunscreen-for-the-elbows-daily-spf-without-the-forgotten-dry-burn
+    date: 2026-09-14
 
 in_progress: []
 
