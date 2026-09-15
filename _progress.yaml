@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-14
+  updated: 2026-09-15
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -588,6 +588,9 @@ published:
   - n: 183
     slug: best-body-serum-for-crepey-skin-smoother-comfort-without-a-complicated-routine
     date: 2026-09-14
+  - n: 184
+    slug: best-sunscreen-for-the-knees-daily-spf-without-the-forgotten-joint-burn
+    date: 2026-09-15
 
 in_progress: []
 
