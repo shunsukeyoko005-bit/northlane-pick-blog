@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-15
+  updated: 2026-09-16
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -597,6 +597,9 @@ published:
   - n: 186
     slug: best-body-lotion-for-sensitive-skin-comfort-without-the-fragrance-guessing-game
     date: 2026-09-15
+  - n: 187
+    slug: best-sunscreen-for-the-shins-daily-spf-without-the-forgotten-lower-leg-burn
+    date: 2026-09-16
 
 in_progress: []
 
