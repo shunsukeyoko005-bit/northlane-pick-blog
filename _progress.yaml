@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-17
+  updated: 2026-09-18
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -615,6 +615,9 @@ published:
   - n: 192
     slug: best-face-serum-for-sensitive-skin-calm-comfort-without-the-redness-guessing-game
     date: 2026-09-17
+  - n: 193
+    slug: best-night-cream-for-dry-skin-overnight-comfort-without-waking-up-tight
+    date: 2026-09-18
 
 in_progress: []
 
