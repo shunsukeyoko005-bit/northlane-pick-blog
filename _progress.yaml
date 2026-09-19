@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-18
+  updated: 2026-09-19
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -624,6 +624,9 @@ published:
   - n: 195
     slug: best-gel-sunscreen-for-oily-skin-lightweight-spf-without-the-greasy-midday-film
     date: 2026-09-18
+  - n: 196
+    slug: best-sunscreen-for-winter-skin-daily-spf-without-the-tight-dry-finish
+    date: 2026-09-19
 
 in_progress: []
 
