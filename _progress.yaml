@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-19
+  updated: 2026-09-20
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -627,6 +627,9 @@ published:
   - n: 196
     slug: best-sunscreen-for-winter-skin-daily-spf-without-the-tight-dry-finish
     date: 2026-09-19
+  - n: 197
+    slug: best-sunscreen-for-your-50s-daily-spf-without-starting-over
+    date: 2026-09-20
 
 in_progress: []
 
