@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-21
+  updated: 2026-09-22
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -633,6 +633,9 @@ published:
   - n: 198
     slug: best-sunscreen-for-your-30s-daily-spf-without-waiting-until-later
     date: 2026-09-21
+  - n: 199
+    slug: best-sunscreen-for-your-40s-daily-spf-without-rebuilding-your-shelf
+    date: 2026-09-22
 
 in_progress: []
 
