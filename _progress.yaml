@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-09-23
+  updated: 2026-09-24
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -639,6 +639,9 @@ published:
   - n: 200
     slug: best-moisturizer-for-your-30s-daily-comfort-without-rebuilding-your-shelf
     date: 2026-09-23
+  - n: 201
+    slug: best-sunscreen-for-your-20s-daily-spf-without-saving-it-for-vacation
+    date: 2026-09-24
 
 in_progress: []
 
