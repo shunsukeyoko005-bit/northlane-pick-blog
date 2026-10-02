@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-10-01
+  updated: 2026-10-02
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -663,6 +663,9 @@ published:
   - n: 208
     slug: best-face-wash-for-redness-prone-skin-clean-without-the-flushed-after-rinse
     date: 2026-10-01
+  - n: 209
+    slug: best-sunscreen-during-pregnancy-daily-spf-without-a-research-project
+    date: 2026-10-02
 
 in_progress: []
 
