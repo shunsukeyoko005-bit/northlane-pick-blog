@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-10-02
+  updated: 2026-10-03
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -669,6 +669,9 @@ published:
   - n: 210
     slug: best-sunscreen-for-dry-sensitive-skin-daily-spf-without-the-tight-hot-finish
     date: 2026-10-02
+  - n: 211
+    slug: best-sunscreen-for-hormonal-skin-daily-spf-without-feeding-breakouts
+    date: 2026-10-03
 
 in_progress: []
 
