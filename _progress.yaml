@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-10-03
+  updated: 2026-10-27
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -681,6 +681,9 @@ published:
   - n: 214
     slug: best-cleansing-milk-for-dry-skin-comfort-cleanse-without-the-tight-after-rinse
     date: 2026-10-15
+  - n: 215
+    slug: best-sunscreen-for-sensitive-oily-skin-daily-spf-without-shine-or-sting
+    date: 2026-10-27
 
 in_progress: []
 
