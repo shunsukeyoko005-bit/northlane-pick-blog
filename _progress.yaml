@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-10-27
+  updated: 2026-11-10
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -684,6 +684,9 @@ published:
   - n: 215
     slug: best-sunscreen-for-sensitive-oily-skin-daily-spf-without-shine-or-sting
     date: 2026-10-27
+  - n: 216
+    slug: best-moisturizer-after-retinol-overnight-comfort-without-the-tight-morning
+    date: 2026-11-10
 
 in_progress: []
 
