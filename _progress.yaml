@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-11-19
+  updated: 2026-11-20
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -726,6 +726,9 @@ published:
   - n: 229
     slug: best-sheet-mask-for-dry-skin-comfort-without-a-20-minute-ritual
     date: 2026-11-19
+  - n: 230
+    slug: best-enzyme-cleanser-for-dull-skin-glow-without-a-harsh-scrub
+    date: 2026-11-20
 
 in_progress: []
 
