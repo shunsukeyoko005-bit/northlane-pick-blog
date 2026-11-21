@@ -4,7 +4,7 @@
 meta:
   site: https://northlanepick.com
   repo: shunsukeyoko005-bit/northlane-pick-blog
-  updated: 2026-11-20
+  updated: 2026-11-21
 
 cadence:
   "~2026-07-14": 2-3/day
@@ -732,6 +732,9 @@ published:
   - n: 231
     slug: best-body-sunscreen-for-sensitive-skin-daily-spf-without-the-lotion-sting
     date: 2026-11-20
+  - n: 232
+    slug: best-lactic-acid-serum-for-dry-skin-smooth-flakes-without-a-harsh-peel
+    date: 2026-11-21
 
 in_progress: []
 
